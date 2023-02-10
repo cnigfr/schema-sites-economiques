@@ -3,7 +3,7 @@ Dépot des documents et travaux du sous-groupe de travail ZAE du GT CNIG Aménag
 
 ## Géostandard CNIG ZAE
 
-Le géostandard CNIG ZAE est en cours d'élaboration et sera publié sur la page des ressources du GT CNIG Aménagement.
+Le géostandard CNIG ZAE est en cours d'élaboration. Il sera publié sur la page web des ressources du GT CNIG Aménagement.
 
 ## Contexte
 
