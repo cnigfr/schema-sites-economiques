@@ -1,17 +1,13 @@
-# Schema des Zones d'activites économiques (ZAE) issu du GT CNIG Aménagement
-Dépot des documents et travaux du sous-groupe de travail ZAE pour l'élaboration du géostandard CNIG ZAE
+# Schema des zones d'activites économiques (ZAE)
+Dépot des documents et travaux du sous-groupe de travail ZAE du GT CNIG Aménagement
 
 ## Géostandard CNIG ZAE
 
-Le géostandard CNIG ZAE est en cours d'élaboration 
-
-Il sera publié sur la page des ressources du GT Aménagement.
+Le géostandard CNIG ZAE est en cours d'élaboration et sera publié sur la page des ressources du GT CNIG Aménagement.
 
 ## Contexte
 
-- Une ZAE est réservée à l’implantation d’entreprises. Elle réunit les pouvoirs publics, les collectivités et les entreprises dans une logique partenariale autour d’objectifs de croissance.
-
-  - Elle est en général placée sous le régime juridique du permis d'aménager ou d'une zone d'aménagement concerté (ZAC).
+- Une ZAE est réservée à l’implantation d’entreprises. Elle réunit les pouvoirs publics, les collectivités et les entreprises dans une logique partenariale autour d’objectifs de croissance. Elle est en général placée sous le régime juridique du permis d'aménager ou d'une zone d'aménagement concerté (ZAC).
   - On dénombre un peu plus de 30 000 ZAE couvrant environ 500 000 ha du territoire national.
   - Depuis la loi NOTRe, **les ZAE relèvent de la compétence de l’EPCI**.
 
@@ -21,21 +17,19 @@ Il sera publié sur la page des ressources du GT Aménagement.
 
 ## Cadre juridique
 
-- [L'article 220](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000043957249) de la Loi Climat et Résilience impose de dresser l'inventaire exhaustif des ZAE avant le 22 août 2023, puis sa mise à jour tous les 6 ans, comprenant :
+- [L'article 220](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000043957249) de la Loi Climat et Résilience impose de dresser l'inventaire exhaustif des zones d'activites économiques avant le 22 août 2023, puis sa mise à jour tous les 6 ans, comprenant :
   - l'état parcellaire des unités foncières
   - l’identification des propriétaires et des occupants
   - le taux de vacance de la ZAE, défini à partir des unités foncières inoccupées depuis au moins 2 ans par une activité assujettie à la cotisation foncière des entreprises (CFE).
   
-- La directive européenne INSPIRE impose aux autorités publiques de publier sur Internet leurs données environnementales géographiques et de les partager entre elles. Les informations relatives aux ZAE intègrent le **thème 4 "Usage des sols" de l'annexe III de la directive**.
+- La directive européenne INSPIRE impose aux autorités publiques de publier sur Internet leurs données environnementales géographiques et de les partager entre elles. Les informations relatives aux ZAE intègrent le **thème 4 "Usage des sols" de l'annexe III** de la directive.
 
 ## Finalité
-Le sous-groupe ZAE du GT CNIG Aménagement a pour objectif de standardiser l'identification et la caractérisation des Zones d'activites économiques (ZAE), dans le but d'en dresser l'inventaire de façon homogène sur l'ensemble du territoire.
+Le sous-groupe ZAE du GT CNIG Aménagement a pour objectif de **standardiser l'identification et la caractérisation des Zones d'activites économiques (ZAE), dans le but d'en dresser l'inventaire de façon homogène sur l'ensemble du territoire**.
 
-Le GT CNIG Aménagement et ses sous-groupes oeuvre sous mandat de la **[Commission des Standards](http://cnig.gouv.fr/?page_id=640) du Conseil National de l'Information Géolocalisée** (CNIG).
+Le GT CNIG Aménagement et ses sous-groupes oeuvrent sous mandat de la **[Commission des Standards](http://cnig.gouv.fr/?page_id=640)** du Conseil National de l'Information Géolocalisée (CNIG). Le **[mandat du Groupe de Travail](http://cnig.gouv.fr/IMG/pdf/230119_mandat_gt_cnig_amenagement.pdf)** a été validé le 19 janvier 2023 par la Commission des standards.
 
-Le **[mandat du Groupe de Travail](http://cnig.gouv.fr/IMG/pdf/230119_mandat_gt_cnig_amenagement.pdf)** a été validé le 19 janvier 2023.
-
-Le GT CNIG Aménagement dispose d'une page dédiée <à créer> sur le site du CNIG.
+Le GT CNIG Aménagement dispose d'une page < dédiée, à créer> sur le site du CNIG.
 
 ## Schéma ZAE
 
@@ -50,7 +44,7 @@ Il respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-s
 
 ## Organisation du dépot
 
-* Le répertoire [documentation](https://github.com/cnigfr/zones-activites-economiques/tree/main/documentation) contient les documents utiles au groupe de travail.
+* Le répertoire [bibliographie](https://github.com/cnigfr/zones-activites-economiques/tree/main/bibliographie) contient les documents utiles au groupe de travail.
 * Le répertoire [réunions](https://github.com/cnigfr/Friches/tree/main/r%C3%A9unions) contient les documents de suivi du groupe de travail : [**présentations et compte-rendus des réunions du groupe**](https://github.com/cnigfr/zones-activites-economiques/blob/main/r%C3%A9unions/README.md).
 * Le répertoire [standard](https://github.com/cnigfr/zones-activites-economiques/tree/main/standard) contient le standard CNIG ZAE publié, sous **forme littérale** (.odt et/ou .pdf) avec les rubriques documentaires connexes (contexte, recommandations, métadonnées, etc.).
 * Le fichier [schema.json](https://github.com/cnigfr/zones-activites-economiques/tree/main/schema.json) contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json destiné à être référencé sur schema.data.gouv.fr.
