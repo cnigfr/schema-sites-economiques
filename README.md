@@ -45,7 +45,7 @@ Il respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-s
 ## Organisation du dépot
 
 * Le répertoire [bibliographie](https://github.com/cnigfr/zones-activites-economiques/tree/main/bibliographie) contient les documents utiles au groupe de travail.
-* Le répertoire [réunions](https://github.com/cnigfr/Friches/tree/main/r%C3%A9unions) contient les documents de suivi du groupe de travail : [**présentations et compte-rendus des réunions du groupe**](https://github.com/cnigfr/zones-activites-economiques/blob/main/r%C3%A9unions/README.md).
+* Le répertoire [réunions](https://github.com/cnigfr/Friches/tree/main/r%C3%A9unions) contient les compte-rendus de réunions et les documents de suivi du groupe de travail.
 * Le répertoire [standard](https://github.com/cnigfr/zones-activites-economiques/tree/main/standard) contient le standard CNIG ZAE publié, sous **forme littérale** (.odt et/ou .pdf) avec les rubriques documentaires connexes (contexte, recommandations, métadonnées, etc.).
 * Le fichier [schema.json](https://github.com/cnigfr/zones-activites-economiques/tree/main/schema.json) contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json destiné à être référencé sur schema.data.gouv.fr.
 
@@ -62,15 +62,11 @@ Les ressources associées et les bases de données correspondantes seront actual
 Les mises à jour de base de données sont effectuées en modifiant le cas échéant les données qui y figurent déjà.
 
 ## OpenData - Données ouvertes
-
-Les données relatives à l'identification et la caractérisation des Zones d'activites économiques sont ouvertes et sont à la disposition de tous.
-
+Les données relatives à l'identification et la caractérisation des zones d'activites économiques sont ouvertes et sont à la disposition de tous.
 Elles seront publiées sur https://www.data.gouv.fr
 
 ## Nous contacter
-
 Pour contacter le GT CNIG ZAE, n’hésitez pas à nous écrire à l’adresse suivante : cnig [at] cnig.fr
-
 Toutes les contributions sont les bienvenues !
 
 ## Licence
