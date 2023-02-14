@@ -29,7 +29,21 @@ Le sous-groupe ZAE du GT CNIG Aménagement a pour objectif de **standardiser l'i
 
 Le GT CNIG Aménagement et ses sous-groupes oeuvrent sous mandat de la **[Commission des Standards](http://cnig.gouv.fr/?page_id=640)** du Conseil National de l'Information Géolocalisée (CNIG). Le **[mandat du Groupe de Travail](http://cnig.gouv.fr/IMG/pdf/230119_mandat_gt_cnig_amenagement.pdf)** a été validé le 19 janvier 2023 par la Commission des standards.
 
-Le GT CNIG Aménagement dispose d'une page < dédiée, à créer> sur le site du CNIG.
+Le GT CNIG Aménagement dispose d'une page *< dédiée, à créer >* sur le site du CNIG.
+
+## Stratégie
+
+La stratégie des groupes de travail du CNIG repose sur une diversité d'approches :
+
+- Construire une **gouvernance ouverte** à l'ensemble des parties prenantes, afin de susciter l’adhésion et créer le cadre favorable à la pérennité du dispositif.
+
+- Promouvoir et exploiter les **retours d'expériences** afin d'étudier les diversités d'usages et embarquer les acteurs en les positionnant au centre du processus d’alimentation des référentiels géographiques.
+    
+- Privilégier **l’interopérabilité** entre système d'informations à l’échelle nationale pour favoriser le partage et l’échange de données : éviter les double stockages, double saisies, etc.
+
+- S'appuyer sur les **processus éprouvés** de [standardisation du CNIG](http://cnig.gouv.fr/les-standards-cnig-a18959.html#Etapes-de-creation-d-un-Standard-CNIG) et de modélisation suivant [schema.data.gouv.fr](https://guides.etalab.gouv.fr/producteurs-schemas/)
+
+L’objectif est d'aboutir à terme à un consensus qui se traduise en un standard et un modèle de donnée commun pour la thématique considérée.
 
 ## Schéma ZAE
 
@@ -40,7 +54,6 @@ Le fichier [schema.json](https://github.com/cnigfr/Friches/tree/main/schema.json
 Ce schéma (ou Modèle Conceptuel de Donées - MCD) modélise les informations relatives aux ZAE. Adopter et respecter ce schéma est une garantie, non seulement d’efficacité et de pertinence des informations collectées, mais aussi d’interopérabilité et de facilité du partage des données.
 
 Il respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-schema/) et <est / sera> référencé sur [schema.data.gouv.fr](https://schema.data.gouv.fr/cnigfr/schema-zones-activites-economiques/). 
-
 
 ## Organisation du dépot
 
