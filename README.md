@@ -1,5 +1,5 @@
 # Schema des zones d'activites économiques (ZAE)
-Dépot des documents et travaux du sous-groupe de travail ZAE du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**
+Dépot des documents et travaux du **[sous-groupe de travail ZAE](http://cnig.gouv.fr/gt-friches-a25940.html#Sous-groupe-ZAE)** du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**
 
 ## Géostandard CNIG ZAE
 
