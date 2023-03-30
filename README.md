@@ -1,9 +1,9 @@
 # Schema des zones d'activites économiques (ZAE)
-Dépot des documents et travaux du sous-groupe de travail ZAE du GT CNIG Aménagement
+Dépot des documents et travaux du sous-groupe de travail ZAE du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**
 
 ## Géostandard CNIG ZAE
 
-Le géostandard CNIG ZAE est en cours d'élaboration. Il sera publié sur la page web des ressources du GT CNIG Aménagement.
+Le géostandard CNIG ZAE est en cours d'élaboration. Il sera publié sur la page web des ressources du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**.
 
 ## Contexte
 
@@ -27,9 +27,7 @@ Le géostandard CNIG ZAE est en cours d'élaboration. Il sera publié sur la pag
 ## Finalité
 Le sous-groupe ZAE du GT CNIG Aménagement a pour objectif de **standardiser l'identification et la caractérisation des Zones d'activites économiques (ZAE), dans le but d'en dresser l'inventaire de façon homogène sur l'ensemble du territoire**.
 
-Le GT CNIG Aménagement et ses sous-groupes oeuvrent sous mandat de la **[Commission des Standards](http://cnig.gouv.fr/?page_id=640)** du Conseil National de l'Information Géolocalisée (CNIG). Le **[mandat du Groupe de Travail](http://cnig.gouv.fr/IMG/pdf/230119_mandat_gt_cnig_amenagement.pdf)** a été validé le 19 janvier 2023 par la Commission des standards.
-
-Le GT CNIG Aménagement dispose d'une page *< dédiée, à créer >* sur le site du CNIG.
+Le **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)** et ses sous-groupes oeuvrent sous mandat de la **[Commission des Standards](http://cnig.gouv.fr/?page_id=640)** du Conseil National de l'Information Géolocalisée (CNIG). Le **[mandat du Groupe de Travail](http://cnig.gouv.fr/IMG/pdf/230119_mandat_gt_cnig_amenagement.pdf)** a été validé le 19 janvier 2023 par la Commission des standards.
 
 ## Stratégie
 
@@ -49,18 +47,18 @@ L’objectif est d'aboutir à terme à un consensus qui se traduise en un standa
 
 Le standard CNIG ZAE fournit une description littérale des champs, non exlusivement technique.
 
-Le fichier [schema.json](https://github.com/cnigfr/Friches/tree/main/schema.json) contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json.
+Le fichier schema.json <contient / contiendra> **l'implémentation technique** du modèle conceptuel de données (MCD), au format json.
 
 Ce schéma (ou Modèle Conceptuel de Donées - MCD) modélise les informations relatives aux ZAE. Adopter et respecter ce schéma est une garantie, non seulement d’efficacité et de pertinence des informations collectées, mais aussi d’interopérabilité et de facilité du partage des données.
 
-Il respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-schema/) et <est / sera> référencé sur [schema.data.gouv.fr](https://schema.data.gouv.fr/cnigfr/schema-zones-activites-economiques/). 
+Il respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-schema/) et <est / sera> référencé sur [schema.data.gouv.fr](https://schema.data.gouv.fr). 
 
 ## Organisation du dépot
 
 * Le répertoire [bibliographie](https://github.com/cnigfr/zones-activites-economiques/tree/main/bibliographie) contient les documents utiles au groupe de travail.
 * Le répertoire [réunions](https://github.com/cnigfr/Friches/tree/main/r%C3%A9unions) contient les compte-rendus de réunions et les documents de suivi du groupe de travail.
 * Le répertoire [standard](https://github.com/cnigfr/zones-activites-economiques/tree/main/standard) contient le standard CNIG ZAE publié, sous **forme littérale** (.odt et/ou .pdf) avec les rubriques documentaires connexes (contexte, recommandations, métadonnées, etc.).
-* Le fichier [schema.json](https://github.com/cnigfr/zones-activites-economiques/tree/main/schema.json) contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json destiné à être référencé sur schema.data.gouv.fr.
+* Le fichier schema.json contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json destiné à être référencé sur schema.data.gouv.fr.
 
 ## Informations et participation au groupe de travail
 Pour être tenu au courant et/ou participer aux échanges du GT CNIG ZAE, merci de [contacter le CNIG](http://cnig.gouv.fr/spip.php?page=contact). Il est également possible de s'abonner à la [lettre d'information du CNIG](http://cnig.gouv.fr/).
