@@ -56,7 +56,7 @@ Il respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-s
 ## Organisation du dépot
 
 * Le répertoire [bibliographie](https://github.com/cnigfr/zones-activites-economiques/tree/main/bibliographie) contient les documents utiles au groupe de travail.
-* Le répertoire [réunions](https://github.com/cnigfr/Friches/tree/main/r%C3%A9unions) contient les compte-rendus de réunions et les documents de suivi du groupe de travail.
+* Le répertoire [réunions](https://github.com/cnigfr/zones-activites-economiques/tree/main/r%C3%A9unions) contient les compte-rendus de réunions et les documents de suivi du groupe de travail.
 * Le répertoire [standard](https://github.com/cnigfr/zones-activites-economiques/tree/main/standard) contient le standard CNIG ZAE publié, sous **forme littérale** (.odt et/ou .pdf) avec les rubriques documentaires connexes (contexte, recommandations, métadonnées, etc.).
 * Le fichier schema.json contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json destiné à être référencé sur schema.data.gouv.fr.
 
