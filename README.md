@@ -61,7 +61,7 @@ Il respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-s
 * Le fichier schema.json contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json destiné à être référencé sur schema.data.gouv.fr.
 
 ## Informations et participation au groupe de travail
-Pour être tenu au courant et/ou participer aux échanges du GT CNIG ZAE, merci de [contacter le CNIG](http://cnig.gouv.fr/spip.php?page=contact). Il est également possible de s'abonner à la [lettre d'information du CNIG](http://cnig.gouv.fr/).
+Pour être tenu au courant et/ou participer aux échanges du GT CNIG Aménagement et ses sous-groupes, merci de [contacter le CNIG](http://cnig.gouv.fr/spip.php?page=contact). Il est également possible de s'abonner à la [lettre d'information du CNIG](http://cnig.gouv.fr/).
 
 ## Contributions
 N'hésitez pas à utiliser les [Issues de ce Github](https://github.com/cnigfr/zones-activites-economiques/issues) pour toute expression de besoin, proposition d'amélioration du projet de standard ZAE, retour utilisateur, etc.
