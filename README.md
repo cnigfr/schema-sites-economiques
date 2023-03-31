@@ -49,9 +49,11 @@ Le standard CNIG ZAE fournit une description littérale des champs, non exlusive
 
 Le fichier schema.json <contient / contiendra> **l'implémentation technique** du modèle conceptuel de données (MCD), au format json.
 
-Ce schéma (ou Modèle Conceptuel de Donées - MCD) modélise les informations relatives aux ZAE. Adopter et respecter ce schéma est une garantie, non seulement d’efficacité et de pertinence des informations collectées, mais aussi d’interopérabilité et de facilité du partage des données.
+Ce schéma (ou Modèle Conceptuel de Donées - MCD) modélise les informations relatives aux ZAE.
 
-Il respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-schema/) et <est / sera> référencé sur [schema.data.gouv.fr](https://schema.data.gouv.fr). 
+Adopter et respecter ce schéma est une garantie, non seulement d’efficacité et de pertinence des informations collectées, mais aussi d’interopérabilité et de facilité du partage des données.
+
+Ce schéma respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-schema/) et <est / sera> référencé sur [schema.data.gouv.fr](https://schema.data.gouv.fr). 
 
 ## Organisation du dépot
 
