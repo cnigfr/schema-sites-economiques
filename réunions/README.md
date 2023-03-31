@@ -1,2 +1,2 @@
 
-Ce répertoire contient les compte-rendus de réunions du GT CNIG Aménagement et en particulier du sous-groupe ZAE.
+Ce répertoire contient les compte-rendus de réunions du sous-groupe ZAE du GT CNIG Aménagement.
