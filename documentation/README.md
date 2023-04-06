@@ -15,3 +15,5 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [Guide méthodologique sites économiques](https://ideo.ternum-bfc.fr/groupes-projets/groupe-zones-dactivites-economiques)
 
 
+### Urbansimul - Module activités économiques
+- *< à venir ...>*
