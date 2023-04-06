@@ -1,6 +1,8 @@
 # Schema des zones d'activites économiques (ZAE)
 Dépot des documents et travaux du **[sous-groupe de travail ZAE](http://cnig.gouv.fr/gt-friches-a25940.html#Sous-groupe-ZAE)** du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**
 
+![2023-04-06_111549](https://user-images.githubusercontent.com/79853274/230332190-26e6fc6e-bea4-44b4-9a5d-305de823d83c.png)
+
 ## Géostandard CNIG ZAE
 
 Le géostandard CNIG ZAE est en cours d'élaboration. Il sera publié sur la page web des ressources du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**.
@@ -57,7 +59,7 @@ Ce schéma respecte le standard [Table Schema](https://specs.frictionlessdata.io
 
 ## Organisation du dépot
 
-* Le répertoire [bibliographie](https://github.com/cnigfr/zones-activites-economiques/tree/main/bibliographie) contient les documents utiles au groupe de travail.
+* Le répertoire [documentation](https://github.com/cnigfr/zones-activites-economiques/tree/main/documentation) contient les documents utiles au groupe de travail.
 * Le répertoire [réunions](https://github.com/cnigfr/zones-activites-economiques/tree/main/r%C3%A9unions) contient les compte-rendus de réunions et les documents de suivi du groupe de travail.
 * Le répertoire [standard](https://github.com/cnigfr/zones-activites-economiques/tree/main/standard) contient le standard CNIG ZAE publié, sous **forme littérale** (.odt et/ou .pdf) avec les rubriques documentaires connexes (contexte, recommandations, métadonnées, etc.).
 * Le fichier schema.json contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json destiné à être référencé sur schema.data.gouv.fr.
