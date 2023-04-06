@@ -21,7 +21,12 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [Comprendre SUD foncier éco](https://sudfonciereco.maregionsud.fr/comprendre/)
 - [Tutoriel SUD foncier éco](https://sudfonciereco.maregionsud.fr/fileadmin/user_upload/Sud_foncier_eco/Tutoriel_SFE.pdf)
 - [Jeux de données Région Sud](https://trouver.datasud.fr/organization/region-sud)
+- [Cooridnation régionale des inventaires de ZAE](https://sudfonciereco.maregionsud.fr/comprendre/ressources)
 
+
+### DDT du Rhône - OZAR - Zones d'Activités Économiques du Rhône
+- [OZAR - Zones d'Activités Économiques du Rhône](https://carto.datara.gouv.fr/1/ozar.map)
+- 
 
 ### Urbansimul - Module activités économiques
 - *< à venir ...>*
