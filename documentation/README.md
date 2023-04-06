@@ -4,7 +4,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ## Aspects réglementaires
 
-- [Enjeux de l’inventaire du foncier dans les ZAE, rendu obligatoire par la Loi Climat & Résilience](https://github.com/cnigfr/zones-activites-economiques/files/11167926/221214_enjeux_de_l.inventaire_du_foncier_dans_les_ZAE_MTE_DGALN.pdf)
+- [Enjeux de l’inventaire du foncier dans les ZAE, rendu obligatoire par la Loi Climat & Résilience](https://github.com/cnigfr/zones-activites-economiques/documentation/221214_enjeux_de_l.inventaire_du_foncier_dans_les_ZAE_MTE_DGALN.pdf)
 
 ## Démarches existantes
 
