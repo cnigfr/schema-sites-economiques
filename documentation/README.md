@@ -15,5 +15,13 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [Guide méthodologique sites économiques](https://ideo.ternum-bfc.fr/groupes-projets/groupe-zones-dactivites-economiques)
 
 
+### CRIGE PACA - SUD foncier éco
+
+- [SUD foncier éco](https://visu.sud-foncier-eco.fr/carte/analyser##map=7.73/44.064/5.974)
+- [Comprendre SUD foncier éco](https://sudfonciereco.maregionsud.fr/comprendre/)
+- [Tutoriel SUD foncier éco](https://sudfonciereco.maregionsud.fr/fileadmin/user_upload/Sud_foncier_eco/Tutoriel_SFE.pdf)
+- [Jeux de données Région Sud](https://trouver.datasud.fr/organization/region-sud)
+
+
 ### Urbansimul - Module activités économiques
 - *< à venir ...>*
