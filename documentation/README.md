@@ -28,5 +28,14 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [OZAR - Zones d'Activités Économiques du Rhône](https://carto.datara.gouv.fr/1/ozar.map)
 - [Modèle de données OZAR](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/220210_MCD_ZAE_DDT69.7z)
 
+
+### DREAL Centre-Val de Loire -  BD régionale des ZAE
+- [BD régionale des ZAE en région Centre-Val de Loire](https://zae.doterr.fr/apropos)
+- [Présentation de la BD régionale](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/221128_Présentation_BDD_ZAE_28nov2022_DREAL_Centre.pdf)
+
 ### Urbansimul - Module activités économiques
 - *< à venir ...>*
+
+## Données
+- [Fichiers fonciers DGFIP retraités par le Cerema](https://datafoncier.cerema.fr/ressources/fichiers-fonciers)
+
