@@ -26,7 +26,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ### DDT du Rhône - OZAR - Zones d'Activités Économiques du Rhône
 - [OZAR - Zones d'Activités Économiques du Rhône](https://carto.datara.gouv.fr/1/ozar.map)
-- [Modèle de données OZAR](cnigfr/zones-activites-economiques/documentation/220210_MCD_ZAE_DDT69.7z)
+- [Modèle de données OZAR](https://github.com/cnigfr/zones-activites-economiques/documentation/220210_MCD_ZAE_DDT69.7z)
 
 ### Urbansimul - Module activités économiques
 - *< à venir ...>*
