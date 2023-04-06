@@ -33,6 +33,10 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [BD régionale des ZAE en région Centre-Val de Loire](https://zae.doterr.fr/apropos)
 - [Présentation de la BD régionale](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/221128_Présentation_BDD_ZAE_28nov2022_DREAL_Centre.pdf)
 
+
+### Région Grand Est
+- [Enrichissement de l’OCSGE régionale à partir des Fichiers fonciers](https://www.datagrandest.fr/public/ocs/donnees_bdea/Enrichissement_OCS_GE2_VFinale.pdf)
+
 ### Urbansimul - Module activités économiques
 - *< à venir ...>*
 
