@@ -13,7 +13,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [Carte des Sites et Zones d'activités économiques](https://cartes.ternum-bfc.fr/?config=apps/agence-regionale-du-numerique-et-de-l-intelligence-artificielle-arnia/economie.xml)
 - [GT ZAE BFC](https://ideo.ternum-bfc.fr/groupes-projets/groupe-zones-dactivites-economiques)
 - [Guide méthodologique sites économiques](https://ideo.ternum-bfc.fr/groupes-projets/groupe-zones-dactivites-economiques)
-
+- [Webinaire du 20 septembre 2022 : Concrétiser une observation des ZAE conforme à la loi C&R](https://ideo.ternum-bfc.fr/sites/default/files/2022-09/20220920_Webinaire%20GT%20ZAE%20Concr%C3%A9tiser%20une%20observation%20des%20ZAE%20art%20220%20loi%20climat.pdf)
 
 ### CRIGE PACA - SUD foncier éco
 
@@ -21,7 +21,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [Comprendre SUD foncier éco](https://sudfonciereco.maregionsud.fr/comprendre/)
 - [Tutoriel SUD foncier éco](https://sudfonciereco.maregionsud.fr/fileadmin/user_upload/Sud_foncier_eco/Tutoriel_SFE.pdf)
 - [Jeux de données Région Sud](https://trouver.datasud.fr/organization/region-sud)
-- [Cooridnation régionale des inventaires de ZAE](https://sudfonciereco.maregionsud.fr/comprendre/ressources)
+- [Coordination régionale des inventaires de ZAE](https://sudfonciereco.maregionsud.fr/comprendre/ressources)
 
 
 ### DDT du Rhône - OZAR - Zones d'Activités Économiques du Rhône
