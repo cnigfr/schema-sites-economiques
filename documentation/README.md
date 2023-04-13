@@ -39,6 +39,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ### Région Hauts-de-France - Geo2France
 
+- [Présentation de la démarche de standardisation des ZAE](https://www.geo2france.fr/portail/presentation-de-la-demarche)
 - [Standardisation des données activités économiques - version 2.0 juin 2015](https://www.geo2france.fr/portail/sites/default/files/import_destination/fichier/from_tc/geopicardie/documents/modele_groupe_activite_economique_version2_2015.pdf)
 - [Atlas des ZAE de l'ADUGA basé sur le standard Hauts-de-France](https://carto.aduga.org/index.php/view/map/?repository=observatoire&project=atlas_zae_lizmap_383)
 
