@@ -23,23 +23,24 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [Jeux de données Région Sud](https://trouver.datasud.fr/organization/region-sud)
 - [Coordination régionale des inventaires de ZAE](https://sudfonciereco.maregionsud.fr/comprendre/ressources)
 
-
 ### DDT du Rhône - OZAR - Zones d'Activités Économiques du Rhône
+
 - [OZAR - Zones d'Activités Économiques du Rhône](https://carto.datara.gouv.fr/1/ozar.map)
 - [Modèle de données OZAR](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/230412_MCD_ZAE_DDT69.zip)
 
-
 ### DREAL Centre-Val de Loire -  BD régionale des ZAE
+
 - [BD régionale des ZAE en région Centre-Val de Loire](https://zae.doterr.fr/apropos)
 - [Présentation de la BD régionale](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/221128_Présentation_BDD_ZAE_28nov2022_DREAL_Centre.pdf)
 
-
 ### Région Grand Est
+
 - [Enrichissement de l’OCSGE régionale à partir des Fichiers fonciers](https://www.datagrandest.fr/public/ocs/donnees_bdea/Enrichissement_OCS_GE2_VFinale.pdf)
 
 ### Urbansimul - Module activités économiques
+
 - *< à venir ...>*
 
 ## Données
-- [Fichiers fonciers DGFIP retraités par le Cerema](https://datafoncier.cerema.fr/ressources/fichiers-fonciers)
 
+- [Fichiers fonciers DGFIP retraités par le Cerema](https://datafoncier.cerema.fr/ressources/fichiers-fonciers)
