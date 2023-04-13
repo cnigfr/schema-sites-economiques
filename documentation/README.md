@@ -15,7 +15,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [Guide méthodologique sites économiques](https://ideo.ternum-bfc.fr/groupes-projets/groupe-zones-dactivites-economiques)
 - [Webinaire du 20 septembre 2022 : Concrétiser une observation des ZAE conforme à la loi C&R](https://ideo.ternum-bfc.fr/sites/default/files/2022-09/20220920_Webinaire%20GT%20ZAE%20Concr%C3%A9tiser%20une%20observation%20des%20ZAE%20art%20220%20loi%20climat.pdf)
 
-### CRIGE PACA - SUD foncier éco
+### Région PACA - SUD foncier éco
 
 - [SUD foncier éco](https://visu.sud-foncier-eco.fr/carte/analyser##map=7.73/44.064/5.974)
 - [Comprendre SUD foncier éco](https://sudfonciereco.maregionsud.fr/comprendre/)
