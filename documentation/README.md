@@ -43,6 +43,10 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [Standardisation des données activités économiques - version 2.0 juin 2015](https://www.geo2france.fr/portail/sites/default/files/import_destination/fichier/from_tc/geopicardie/documents/modele_groupe_activite_economique_version2_2015.pdf)
 - [Atlas des ZAE de l'ADUGA basé sur le standard Hauts-de-France](https://carto.aduga.org/index.php/view/map/?repository=observatoire&project=atlas_zae_lizmap_383)
 
+### ADUGA
+
+- [Notice méthodologique de l'inventaire des ZAE du Grand Amiénois](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/230413_Notice_methodologique_inventaire_des_ZAE_du_Grand_Amienois.pdf)
+
 ### Urbansimul - Module activités économiques
 
 - *< à venir ...>*
