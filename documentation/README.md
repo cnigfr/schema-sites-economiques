@@ -10,7 +10,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 - [COPIL n°01 du 16 mars 2023](https://github.com/cnigfr/zones-activites-economiques/files/11259486/230316.COPIL.PNFE.n.01.pdf)
 
-## Démarches existantes
+## Démarches territoriales
 
 ### Agence économique régionale Bourgogne-Franche-Comté
 
