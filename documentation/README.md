@@ -6,6 +6,10 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 - [Enjeux de l’inventaire du foncier dans les ZAE, rendu obligatoire par la Loi Climat & Résilience](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/221214_enjeux_de_l%E2%80%99inventaire_du_foncier_dans_les_ZAE_MTE_DGALN.pdf)
 
+## Portail national du foncier économique (PNFE)
+
+- [COPIL n°01 du 16 mars 2023](https://github.com/cnigfr/zones-activites-economiques/files/11259486/230316.COPIL.PNFE.n.01.pdf)
+
 ## Démarches existantes
 
 ### Agence économique régionale Bourgogne-Franche-Comté
