@@ -29,7 +29,8 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ### DDT du Rhône - OZAR - Zones d'Activités Économiques du Rhône
 
-- [OZAR - Zones d'Activités Économiques du Rhône](https://carto.datara.gouv.fr/1/ozar.map)
+- [OZAR - Zones d'Activités Économiques du Rhône](https://www.rhone.gouv.fr/index.php/Actions-de-l-Etat/Economie-travail-et-emploi/Zones-d-activites-economiques/Observatoire-des-Zones-d-Activites-Economiques-du-Rhone-OZAR)
+- [Cartographie interactive](https://carto2.geo-ide.din.developpement-durable.gouv.fr/frontoffice/?map=ad15903f-2241-438d-af51-1cd8f035d94c)
 - [Modèle de données OZAR](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/230412_MCD_ZAE_DDT69.zip)
 
 ### DREAL Centre-Val de Loire -  BD régionale des ZAE
