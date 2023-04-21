@@ -52,6 +52,12 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 - [Notice méthodologique de l'inventaire des ZAE du Grand Amiénois](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/230413_Notice_methodologique_inventaire_des_ZAE_du_Grand_Amienois.pdf)
 
+### GéoCompiègne
+- [Prescriptions spécifiques locales pour le suivi et la gestion de l'activité économique](https://github.com/sigagglocompiegne/acti_eco). Il s'agit d'une  extension avec remaniement léger et réversible du [modèle régional ex-picardie 2015](https://github.com/cnigfr/zones-activites-economiques/edit/main/documentation/README.md#r%C3%A9gion-hauts-de-france---geo2france)
+- [Modèle de données](https://github.com/sigagglocompiegne/acti_eco/blob/master/bdd/doc_admin_bd_amt_fon_eco.md)
+- [Exemple de métadonnées](https://github.com/sigagglocompiegne/acti_eco/blob/master/bdd/doc_admin_bd_amt_fon_eco.md)
+
+
 ### Urbansimul - Module activités économiques
 
 - *< à venir ...>*
