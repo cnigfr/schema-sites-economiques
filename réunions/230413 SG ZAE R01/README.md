@@ -3,5 +3,5 @@
 
 - [Support de présentation](https://github.com/cnigfr/zones-activites-economiques/files/11259403/230412_Presa_SG_ZAE_230413.pdf)
 
-- Compte-rendu <à venir>
+- [Compte-rendu](http://cnig.gouv.fr/IMG/pdf/230419_cr_sg_zae_gt_amenagement_cnig_230413.pdf)
 
