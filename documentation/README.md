@@ -59,7 +59,9 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ### Roanne agglomération
 
-- Glossaire pour le suivi foncier des Zones d’activités de Roannais Agglomération
+- [Glossaire pour le suivi foncier des Zones d’activités de Roannais Agglomération](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/230524_RA_glossaire_termes_foncier_eco.pdf)
+
+- [Exemple de fiche d'inventaire](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/230524_RA_exemple_inventaire_za.jpeg)
 
 
 ### Urbansimul - Module activités économiques
