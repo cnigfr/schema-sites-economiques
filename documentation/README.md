@@ -57,6 +57,10 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [Modèle de données](https://github.com/sigagglocompiegne/acti_eco/blob/master/bdd/doc_admin_bd_amt_fon_eco.md)
 - [Exemple de métadonnées](https://geo.compiegnois.fr/geonetwork/srv/fre/catalog.search#/metadata/23207f39-0ca6-4f39-a526-51ec09418bc8/formatters/xsl-view?root=div&view=advanced)
 
+### Roanne agglomération
+
+- Glossaire pour le suivi foncier des Zones d’activités de Roannais Agglomération
+
 
 ### Urbansimul - Module activités économiques
 
