@@ -4,7 +4,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ## Aspects réglementaires
 
-- [Enjeux de l’inventaire du foncier dans les ZAE, rendu obligatoire par la Loi Climat & Résilience](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/221214_enjeux_de_l%E2%80%99inventaire_du_foncier_dans_les_ZAE_MTE_DGALN.pdf)
+- [Enjeux de l’inventaire du foncier dans les ZAE, rendu obligatoire par la Loi Climat & Résilience](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/221214_enjeux_de_l%E2%80%99inventaire_du_foncier_dans_les_ZAE_MTE_DGALN.pdf)
 
 ## Portail national du foncier économique (PNFE)
 
@@ -31,12 +31,12 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 - [OZAR - Zones d'Activités Économiques du Rhône](https://www.rhone.gouv.fr/index.php/Actions-de-l-Etat/Economie-travail-et-emploi/Zones-d-activites-economiques/Observatoire-des-Zones-d-Activites-Economiques-du-Rhone-OZAR)
 - [Cartographie interactive](https://carto2.geo-ide.din.developpement-durable.gouv.fr/frontoffice/?map=ad15903f-2241-438d-af51-1cd8f035d94c)
-- [Modèle de données OZAR](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/230412_MCD_ZAE_DDT69.zip)
+- [Modèle de données OZAR](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/230412_MCD_ZAE_DDT69.zip)
 
 ### DREAL Centre-Val de Loire -  BD régionale des ZAE
 
 - [BD régionale des ZAE en région Centre-Val de Loire](https://zae.doterr.fr/apropos)
-- [Présentation de la BD régionale](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/221128_Présentation_BDD_ZAE_28nov2022_DREAL_Centre.pdf)
+- [Présentation de la BD régionale](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/221128_Présentation_BDD_ZAE_28nov2022_DREAL_Centre.pdf)
 
 ### Région Grand Est
 
@@ -50,7 +50,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ### ADUGA
 
-- [Notice méthodologique de l'inventaire des ZAE du Grand Amiénois](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/230413_Notice_methodologique_inventaire_des_ZAE_du_Grand_Amienois.pdf)
+- [Notice méthodologique de l'inventaire des ZAE du Grand Amiénois](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/230413_Notice_methodologique_inventaire_des_ZAE_du_Grand_Amienois.pdf)
 
 ### GéoCompiègne
 - [Prescriptions spécifiques locales pour le suivi et la gestion de l'activité économique](https://github.com/sigagglocompiegne/acti_eco). Il s'agit d'une  extension avec remaniement léger et réversible du [modèle régional ex-picardie 2015](https://www.geo2france.fr/portail/sites/default/files/import_destination/fichier/from_tc/geopicardie/documents/modele_groupe_activite_economique_version2_2015.pdf)
@@ -59,9 +59,9 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ### Roanne Agglomération
 
-- [Glossaire pour le suivi foncier des Zones d’activités de Roannais Agglomération](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/230524_RA_glossaire_termes_foncier_eco.pdf)
+- [Glossaire pour le suivi foncier des Zones d’activités de Roannais Agglomération](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/230524_RA_glossaire_termes_foncier_eco.pdf)
 
-- [Exemple de fiche d'inventaire](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/230524_RA_exemple_inventaire_za.jpeg)
+- [Exemple de fiche d'inventaire](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/230524_RA_exemple_inventaire_za.jpeg)
 
 
 ### Urbansimul - Module activités économiques
