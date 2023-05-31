@@ -70,7 +70,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ## Fiches ZAN et ZAE
 
-Elements de contexte ZAN - [Densification et optimisation des zones d'activité](cnigfr/zones-activites-economiques/documentation/fichiers/ZAN_ZAE/fiche_densification_optimisation_zones_activites_0.pdf) -  Mixité d'usages - Mutualisation des services - Réversibiité immobilière
+Elements de contexte ZAN - [Densification et optimisation des zones d'activité](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/fiche_densification_optimisation_zones_activites_0.pdf) -  Mixité d'usages - Mutualisation des services - Réversibiité immobilière
 
 
 ## Données
