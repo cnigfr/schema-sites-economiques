@@ -68,6 +68,11 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 - *< à venir ...>*
 
+## Fiches ZAN et ZAE
+
+Elements de contexte ZAN - [Densification et optimisation des zones d'activité](cnigfr/zones-activites-economiques/documentation/fichiers/ZAN_ZAE/fiche_densification_optimisation_zones_activites_0.pdf) -  Mixité d'usages - Mutualisation des services - Réversibiité immobilière
+
+
 ## Données
 
 - [Fichiers fonciers DGFIP retraités par le Cerema](https://datafoncier.cerema.fr/ressources/fichiers-fonciers)
