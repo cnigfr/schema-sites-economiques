@@ -36,7 +36,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 ### DDT du Tarn - OFEA - Observatiore du foncier économique d'activité du Tarn
 
 - [Portail cartographique](https://carto2.geo-ide.din.developpement-durable.gouv.fr/frontoffice/?map=9bef953d-2c8f-4983-adb5-a4e90a0c3e36)
-- Dictionnaire de données de l’observatoire des sites d’activité économique du Tarn
+- [Dictionnaire de données de l’observatoire des sites d’activité économique du Tarn](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/230622_TARN_dictionnaire_donn%C3%A9es_information_ofea.pdf)
 - Fiches de métadonnées des [sites d'activité économique](http://catalogue.geo-ide.developpement-durable.gouv.fr/catalogue/srv/fre/catalog.search#/metadata/fr-120066022-jdd-6e89593b-7917-4ef2-9925-f2e13740a748), des [lots des sites](http://catalogue.geo-ide.developpement-durable.gouv.fr/catalogue/srv/fre/catalog.search#/metadata/fr-120066022-jdd-f3861952-0886-4bf0-ab95-275b965a1a6c), des [établissements](http://catalogue.geo-ide.developpement-durable.gouv.fr/catalogue/srv/fre/catalog.search#/metadata/fr-120066022-jdd-051ff43a-bb58-4d7a-a67d-e5dd562a45f2), diffusées sur Géo-IDE Catalogue
 - [Inventaire annuel des zones d’activités du Tarn](http://piece-jointe-carto.developpement-durable.gouv.fr/DEPT081A/ofea/geoide/publication_ofea.html) : statistiques départementales et fiches par EPCI
 
