@@ -1,2 +1,8 @@
+# Réunion n°3 du [sous-groupe ZAE](http://cnig.gouv.fr/gt-friches-a25940.html#Sous-groupe-ZAE) du [GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)
 
-Le compte-rendu du SG ZAE du 14 juin est en cours de validation.
+- [upport de présentation
+
+- [Compte-rendu](https://cnig.gouv.fr/IMG/pdf/230627_cr_sg_zae_gt_amenagement_cnig_230614.pdf)
+
+
+
