@@ -36,7 +36,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [Tutoriel SUD foncier éco](https://sudfonciereco.maregionsud.fr/fileadmin/user_upload/Sud_foncier_eco/Tutoriel_SFE.pdf)
 - [Jeux de données Région Sud](https://trouver.datasud.fr/organization/region-sud)
 - [Coordination régionale des inventaires de ZAE](https://sudfonciereco.maregionsud.fr/comprendre/ressources)
-- - [Guide méthodologique pour la réalisation des inventaires de ZAE dans le cadre de la loi Climat et résilience](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/README.md#guides-m%C3%A9thodologiques-pour-la-r%C3%A9alisation-des-inventaires-de-zae-dans-le-cadre-de-la-loi-climat-et-r%C3%A9silience)
+- [Guide méthodologique pour la réalisation des inventaires de ZAE dans le cadre de la loi Climat et résilience](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/README.md#guides-m%C3%A9thodologiques-pour-la-r%C3%A9alisation-des-inventaires-de-zae-dans-le-cadre-de-la-loi-climat-et-r%C3%A9silience)
 
 ### DDT du Rhône - OZAR - Zones d'Activités Économiques du Rhône
 
