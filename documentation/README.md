@@ -26,6 +26,8 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [GT ZAE BFC](https://ideo.ternum-bfc.fr/groupes-projets/groupe-zones-dactivites-economiques)
 - [Guide méthodologique sites économiques](https://ideo.ternum-bfc.fr/groupes-projets/groupe-zones-dactivites-economiques)
 - [Webinaire du 20 septembre 2022 : Concrétiser une observation des ZAE conforme à la loi C&R](https://ideo.ternum-bfc.fr/sites/default/files/2022-09/20220920_Webinaire%20GT%20ZAE%20Concr%C3%A9tiser%20une%20observation%20des%20ZAE%20art%20220%20loi%20climat.pdf)
+- [Guide méthodologique avec tutoriel détaillé pour auto-formation et solution d'inventaire supportée par un tableur Excel](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/README.md#guides-m%C3%A9thodologiques-pour-la-r%C3%A9alisation-des-inventaires-de-zae-dans-le-cadre-de-la-loi-climat-et-r%C3%A9silience)
+
 
 ### Région PACA - SUD foncier éco
 
