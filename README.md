@@ -1,11 +1,11 @@
-# Schema des zones d'activites économiques (ZAE)
+# Schema des Sites économiques
 Dépot des documents et travaux du **[sous-groupe de travail ZAE](http://cnig.gouv.fr/gt-friches-a25940.html#Sous-groupe-ZAE)** du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**
 
 ![2023-04-06_111549](https://user-images.githubusercontent.com/79853274/230332190-26e6fc6e-bea4-44b4-9a5d-305de823d83c.png)
 
-## Géostandard CNIG ZAE
+## Géostandard CNIG Site Economique
 
-Le géostandard CNIG ZAE est en cours d'élaboration. Il sera publié sur la page web des ressources du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**.
+Le géostandard CNIG site Economique est en cours d'élaboration. Il sera publié sur la page web des ressources du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**.
 
 ## Contexte
 
@@ -22,12 +22,12 @@ Le géostandard CNIG ZAE est en cours d'élaboration. Il sera publié sur la pag
 - [L'article 220](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000043957249) de la Loi Climat et Résilience impose de dresser l'inventaire exhaustif des zones d'activites économiques avant le 22 août 2023, puis sa mise à jour tous les 6 ans, comprenant :
   - l'état parcellaire des unités foncières
   - l’identification des propriétaires et des occupants
-  - le taux de vacance de la ZAE, défini à partir des unités foncières inoccupées depuis au moins 2 ans par une activité assujettie à la cotisation foncière des entreprises (CFE).
+  - le taux de vacance de la , défini à partir des unités foncières inoccupées depuis au moins 2 ans par une activité assujettie à la cotisation foncière des entreprises (CFE).
   
-- La directive européenne INSPIRE impose aux autorités publiques de publier sur Internet leurs données environnementales géographiques et de les partager entre elles. Les informations relatives aux ZAE intègrent le **thème 4 "Usage des sols" de l'annexe III** de la directive.
+- La directive européenne INSPIRE impose aux autorités publiques de publier sur Internet leurs données environnementales géographiques et de les partager entre elles. Les informations relatives aux  intègrent le **thème 4 "Usage des sols" de l'annexe III** de la directive.
 
 ## Finalité
-Le sous-groupe ZAE du GT CNIG Aménagement a pour objectif de **standardiser l'identification et la caractérisation des Zones d'activites économiques (ZAE), dans le but d'en dresser l'inventaire de façon homogène sur l'ensemble du territoire**.
+Le sous-groupe ZAE du GT CNIG Aménagement a pour objectif de **standardiser l'identification et la caractérisation des Sites économiques, dans le but d'en dresser l'inventaire de façon homogène sur l'ensemble du territoire**.
 
 Le **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)** et ses sous-groupes oeuvrent sous mandat de la **[Commission des Standards](http://cnig.gouv.fr/?page_id=640)** du Conseil National de l'Information Géolocalisée (CNIG). Le **[mandat du Groupe de Travail](http://cnig.gouv.fr/IMG/pdf/230119_mandat_gt_cnig_amenagement.pdf)** a été validé le 19 janvier 2023 par la Commission des standards.
 
@@ -45,13 +45,13 @@ La stratégie des groupes de travail du CNIG repose sur une diversité d'approch
 
 L’objectif est d'aboutir à terme à un consensus qui se traduise en un standard et un modèle de donnée commun pour la thématique considérée.
 
-## Schéma ZAE
+## Schéma Site Economique
 
-Le standard CNIG ZAE fournit une description littérale des champs, non exlusivement technique.
+Le standard CNIG Site Economique fournit une description littérale des champs, non exlusivement technique.
 
 Le fichier schema.json <contient / contiendra> **l'implémentation technique** du modèle conceptuel de données (MCD), au format json.
 
-Ce schéma (ou Modèle Conceptuel de Donées - MCD) modélise les informations relatives aux ZAE.
+Ce schéma (ou Modèle Conceptuel de Donées - MCD) modélise les informations relatives aux sites économiques.
 
 Adopter et respecter ce schéma est une garantie, non seulement d’efficacité et de pertinence des informations collectées, mais aussi d’interopérabilité et de facilité du partage des données.
 
@@ -61,19 +61,19 @@ Ce schéma respecte le standard [Table Schema](https://specs.frictionlessdata.io
 
 * Le répertoire [documentation](https://github.com/cnigfr/zones-activites-economiques/tree/main/documentation) contient les documents utiles au groupe de travail.
 * Le répertoire [réunions](https://github.com/cnigfr/zones-activites-economiques/tree/main/r%C3%A9unions) contient les compte-rendus de réunions et les documents de suivi du groupe de travail.
-* Le répertoire [standard](https://github.com/cnigfr/zones-activites-economiques/tree/main/standard) contient le standard CNIG ZAE publié, sous **forme littérale** (.odt et/ou .pdf) avec les rubriques documentaires connexes (contexte, recommandations, métadonnées, etc.).
+* Le répertoire [standard](https://github.com/cnigfr/zones-activites-economiques/tree/main/standard) contient le standard CNIG Site Economique publié, sous **forme littérale** (.odt et/ou .pdf) avec les rubriques documentaires connexes (contexte, recommandations, métadonnées, etc.).
 * Le fichier schema.json contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json destiné à être référencé sur schema.data.gouv.fr.
 
 ## Informations et participation au groupe de travail
 Pour être tenu au courant et/ou participer aux échanges du GT CNIG Aménagement et ses sous-groupes, merci de [contacter le CNIG](http://cnig.gouv.fr/spip.php?page=contact). Il est également possible de s'abonner à la [lettre d'information du CNIG](http://cnig.gouv.fr/).
 
 ## Contributions
-N'hésitez pas à utiliser les [Issues de ce Github](https://github.com/cnigfr/zones-activites-economiques/issues) pour toute expression de besoin, proposition d'amélioration du projet de standard ZAE, retour utilisateur, etc.
+N'hésitez pas à utiliser les [Issues de ce Github](https://github.com/cnigfr/zones-activites-economiques/issues) pour toute expression de besoin, proposition d'amélioration du projet de standard Site Economique, retour utilisateur, etc.
 
 ## Actualisation
-Le projet de standard ZAE, puis le standard une fois validé par le CNIG, évoluera en fonction des évolutions réglementaires et de l'expression des besoins de la communauté des utlisateurs.
+Le projet de standard Site Economique, puis le standard une fois validé par le CNIG, évoluera en fonction des évolutions réglementaires et de l'expression des besoins de la communauté des utlisateurs.
 
-Les ressources associées et les bases de données correspondantes seront actualisées conformément au standard CNIG ZAE.
+Les ressources associées et les bases de données correspondantes seront actualisées conformément au standard CNIG Site Economique.
 Les mises à jour de base de données sont effectuées en modifiant le cas échéant les données qui y figurent déjà.
 
 ## OpenData - Données ouvertes
