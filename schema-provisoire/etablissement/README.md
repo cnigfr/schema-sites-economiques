@@ -1,4 +1,4 @@
-# Schéma Etablissement économqie
+# Schéma Etablissement économique
 
 - en cours de construction
 
