@@ -1,0 +1,48 @@
+{
+    "name": "datapackage-site-economique",
+    "title": "Site Economique",
+    "description": "Data package contenant 4 schémas : pole-eco, site-eco, terrain-eco, etablissement",
+    "id": "datapackage-site-economique",
+    "resources": [
+        {
+            "name": "pole-eco",
+            "path": "pole-eco/exemple-valide.csv",
+            "profile": "tabular-data-resource",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": "pole-eco/schema.json",
+            "documentation": "pole-eco/README.md"
+        },
+        {
+            "name": "site-eco",
+            "path": "site-eco/exemple-valide.csv",
+            "profile": "tabular-data-resource",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": "site-eco/schema.json",
+            "documentation": "site-eco/README.md"
+        },
+        {
+            "name": "terrain-eco",
+            "path": "terrain-eco/exemple-valide.csv",
+            "profile": "tabular-data-resource",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": "terrain-eco/schema.json",
+            "documentation": "terrain-eco/README.md"
+        },
+		{
+            "name": "etablissement",
+            "path": "etablissement/exemple-valide.csv",
+            "profile": "tabular-data-resource",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": "etablissement/schema.json",
+            "documentation": "etablissement/README.md"
+        }
+    ]
+}
