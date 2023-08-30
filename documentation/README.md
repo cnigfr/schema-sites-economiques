@@ -12,7 +12,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ## Guides méthodologiques pour la réalisation des inventaires de ZAE dans le cadre de la loi Climat et résilience
 
-- [Guide méthodologique](https://sudfonciereco.maregionsud.fr/fileadmin/user_upload/Sud_foncier_eco/Sud_foncier_eco/comprendre/20230705_Guide_methodologique_paysage.pdf) (DREAL PACA & Sud foncier éco - juin 2023 - version provisoire)
+- [Guide méthodologique](https://sudfonciereco.maregionsud.fr/fileadmin/user_upload/Sud_foncier_eco/Sud_foncier_eco/comprendre/20230816_Guide_methodologique_paysage.pdf) (DREAL PACA & Sud foncier éco - juin 2023 - version provisoire)
 - [Guide méthodologique avec tutoriel détaillé pour auto-formation](https://aerbfc-my.sharepoint.com/:b:/g/personal/ydumon_aer-bfc_com/Eft0nDjfR0pLhxxowAruM88BsBylD5gCfm4qcfVjNhVkVg?e=voDjV0) (AER-BFC - 2022)
 - [Annexe au guide méthodo : solution d'inventaire supportée par un tableur Excel](https://aerbfc-my.sharepoint.com/:b:/g/personal/ydumon_aer-bfc_com/EZ2OHkk1D8dCsaXJGlH_Zt0BKI2OrQBNZ4g_FN8Rh0cG6Q?e=b3Qk1M) (AER-BFC - février 2023)
 -  [Inventaires des ZAE, un outil pour concilier sobriété foncière et développement économique des territoires](https://www.fnau.org/wp-content/uploads/2023/06/avis-fnau-n11-izae.pdf) (Avis FNAU N°11- Mai 2023)
