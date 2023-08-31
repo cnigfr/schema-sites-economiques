@@ -75,7 +75,7 @@
       "name": "site_nom",
       "title": "nom du site",
       "description": "nom du site économique",
-      "example": "ZAC Les Bornes du Temps",
+	  "example": "ZAC Les Bornes du Temps",
 	  "type": "string",
       "constraints": {"required":true}
      },
@@ -126,8 +126,7 @@
       "name": "site_creation_date",
       "title": "année de création",
       "description": "année de création du site économique",
-	  "example": "",
-      "example": 2015,
+	  "example": 2015,
       "type": "date",
       "format": "%Y",
       "constraints": {"required":true}
@@ -136,8 +135,7 @@
       "name": "site_identif_date",
       "title": "date d'identification",
       "description": "date d'identification du site économique",
-	  "example": "",
-      "example": "2016-03-26",
+	  "example": "2016-03-26",
       "type": "date",
       "format": "%Y-%m-%d",
       "constraints": {"required":true}
