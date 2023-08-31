@@ -282,7 +282,7 @@
       "name": "site_geomsurf",
       "title": "géométrie",
       "description": "géométrie surfacique du périmètre du site économique au format WKT",
-	  "example": "WKT(POLYGON(…))",
+	  "example": "POLYGON((51.3256 2.6711,50.9324 4.1964,51.3232 2.4653,50.1673 3.3278))",
       "type": "string",
       "constraints": {"required":true}
      },
