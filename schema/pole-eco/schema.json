@@ -1,6 +1,6 @@
 {
    "$schema":"https://specs.frictionlessdata.io/schemas/table-schema.json",
-   "name":"schema-site-economique",
+   "name":"schema-sites-economiques",
    "title":"Standard CNIG Site Economique",
    "description":"Spécification du fichier d'échange conforme au standard CNIG Site Economique pour la classe POLE-ECO : Pôle économique",
    "keywords":[
@@ -13,8 +13,8 @@
 	  "touristic"
    ],
    "countryCode":"FR",
-   "homepage":"https://github.com/cnigfr/schema-zones-activites-economiques",
-   "path":"https://github.com/cnigfr/zones-activites-economiques/blob/main/datapackage.json",
+   "homepage":"https://github.com/cnigfr/schema-sites-economiques",
+   "path":"https://github.com/cnigfr/schema-sites-economiques/blob/main/datapackage.json",
    "image":"",
    "licenses":[
       {
@@ -27,13 +27,13 @@
       {
          "title":"Fichier valide",
          "name":"exemple-valide-csv",
-         "path":"https://github.com/cnigfr/schema-zones-activites-economiques/schema/pole-eco/raw/v1.0.0/fichier-valide.csv"
+         "path":"https://github.com/cnigfr/schema-sites-economiques/schema/pole-eco/raw/v1.0.0/fichier-valide.csv"
       }
    ],
    "sources":[
       {
          "title":"Standard Site Economique",
-         "path":"https://github.com/cnigfr/schema-zones-activites-economiques/blob/main/standard"
+         "path":"https://github.com/cnigfr/schema-sites-economiques/blob/main/standard"
       }
    ],
    "created":"2023-08-22",
