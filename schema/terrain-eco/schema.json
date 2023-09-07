@@ -91,7 +91,7 @@
       "name": "‍terr_utile",
       "title": "superficie à prendre en compte",
       "description": "superficie à prendre en compte (oui \/ non) dans le calcul de la surface utile du site",
-      "example": "Oui",
+      "example": "oui",
       "type": "boolean",
       "constraints": {"required": true}
      },
@@ -218,6 +218,14 @@
       "type": "geosurf",
       "format": "WKT polygon",
       "constraints": {"required": true}
+     },
+	 {
+      "name": "‍terr_cle_en_main",
+      "title": "terrain clé en main",
+      "description": "terrain purgé de tout recours et directement prêt à l'implantation d'activité",
+      "example": "oui",
+      "type": "boolean",
+      "constraints": {"required": false}
      },
      {
       "name": "terr_acquereur",
