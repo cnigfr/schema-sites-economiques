@@ -100,11 +100,11 @@
      {
       "name": "site_etat",
       "title": "état du site",
-      "description": "état du site éco. (création, existant, extension)",
+      "description": "état du site économique (en projet, création, etc.)",
 	  "example": "existant et actif",
       "type": "string",
       "constraints": {"required":true},
-	  "enum": ["création","existant et actif","extension","projet de déclassement","déclassé","annulé"]
+	  "enum": ["en projet","création","existant et actif","projet de déclassement","déclassé","annulé"]
      },
      {
       "name": "site_surf_brute",
@@ -156,6 +156,23 @@
 	  "example": "Une extension de la ZAC des Bornes du Temps existe : ZAC Les Bornes du Temps 2",
       "type": "string",
       "constraints": {"required":false}
+     },
+	 {
+      "name": "site_quali_territoire",
+      "title": "labellisation territoriale",
+      "description": "qualification ou labellisation territoriale ou régionale",
+	  "example": "Site clé en main",
+      "type": "string",
+      "constraints": {"required":false}
+     },
+	 {
+      "name": "site_evol_urba",
+      "title": "type d’urbanisation",
+      "description": "type d'urbanisation (extension, renouvellement urbain)",
+	  "example": "extension",
+      "type": "string",
+      "constraints": {"required":false},
+	  "enum": ["extension urbaine","renouvellement urbain","mixte"]
      },
      {
       "name": "site_url",
@@ -281,7 +298,7 @@
      {
       "name": "site_geomsurf",
       "title": "géométrie",
-      "description": "géométrie surfacique du périmètre du site économique au format WKT",
+      "description": "multi géométries surfaciques du périmètre du site économique au format WKT",
 	  "example": "POLYGON((51.3256 2.6711,50.9324 4.1964,51.3232 2.4653,50.1673 3.3278))",
       "type": "string",
       "constraints": {"required":true}
@@ -430,6 +447,22 @@
       "type": "boolean",
       "constraints": {"required":false}
      },
+	 {
+      "name": "reseau_fluvial",
+      "title": "présence d’un réseau fluvial",
+      "description": "présence (oui \/ non) d'un quai fluvial",
+	  "example": "non",
+      "type": "boolean",
+      "constraints": {"required":false}
+     },
+	 {
+      "name": "desserte_tc",
+      "title": "présence de transport en commun",
+      "description": "présence (oui \/ non) d’une desserte de transport en commun",
+	  "example": "oui",
+      "type": "boolean",
+      "constraints": {"required":false}
+     },
      {
       "name": "desserte_route_nom",
       "title": "desserte routière principale",
@@ -499,6 +532,22 @@
       "title": "distance à l’aéroport",
       "description": "distance (en km) de l'aéroport le plus proche, par la route",
 	  "example": 46,
+      "type": "integer",
+      "constraints": {"required":false}
+     },
+	 {
+      "name": "port_nom",
+      "title": "port",
+      "description": "nom du port maritime ou fluvial le plus proche",
+	  "example": "Ailly-sur-Somme",
+      "type": "string",
+      "constraints": {"required":false}
+     },
+     {
+      "name": "aeroport_dist",
+      "title": "distance au port",
+      "description": "distance (en km) du port maritime ou fluvial le plus proche, par la route",
+	  "example": 4,
       "type": "integer",
       "constraints": {"required":false}
      }
