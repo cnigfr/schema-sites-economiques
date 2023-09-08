@@ -3,9 +3,9 @@ Dépot des documents et travaux du **[sous-groupe de travail ZAE](http://cnig.go
 
 ![2023-04-06_111549](https://user-images.githubusercontent.com/79853274/230332190-26e6fc6e-bea4-44b4-9a5d-305de823d83c.png)
 
-## Géostandard CNIG Site Economique
+## Géostandard CNIG Sites Economiques
 
-Le géostandard CNIG site Economique est en cours d'élaboration. Il sera publié sur la page web des ressources du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**.
+Le géostandard CNIG Sites Economiques est en cours d'élaboration. Il sera publié sur la page web des ressources du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**.
 
 ## Contexte
 
@@ -45,9 +45,9 @@ La stratégie des groupes de travail du CNIG repose sur une diversité d'approch
 
 L’objectif est d'aboutir à terme à un consensus qui se traduise en un standard et un modèle de donnée commun pour la thématique considérée.
 
-## Schéma Site Economique
+## Schéma Sites Economiques
 
-Le standard CNIG Site Economique fournit une description littérale des champs, non exlusivement technique.
+Le standard CNIG Sites Economiques fournit une description littérale des champs, non exlusivement technique.
 
 Le fichier schema.json <contient / contiendra> **l'implémentation technique** du modèle conceptuel de données (MCD), au format json.
 
@@ -61,19 +61,19 @@ Ce schéma respecte le standard [Table Schema](https://specs.frictionlessdata.io
 
 * Le répertoire [documentation](https://github.com/cnigfr/zones-activites-economiques/tree/main/documentation) contient les documents utiles au groupe de travail.
 * Le répertoire [réunions](https://github.com/cnigfr/zones-activites-economiques/tree/main/r%C3%A9unions) contient les compte-rendus de réunions et les documents de suivi du groupe de travail.
-* Le répertoire [standard](https://github.com/cnigfr/zones-activites-economiques/tree/main/standard) contient le standard CNIG Site Economique publié, sous **forme littérale** (.odt et/ou .pdf) avec les rubriques documentaires connexes (contexte, recommandations, métadonnées, etc.).
+* Le répertoire [standard](https://github.com/cnigfr/zones-activites-economiques/tree/main/standard) contient le standard CNIG Sites Economiques publié, sous **forme littérale** (.odt et/ou .pdf) avec les rubriques documentaires connexes (contexte, recommandations, métadonnées, etc.).
 * Le fichier schema.json contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json destiné à être référencé sur schema.data.gouv.fr.
 
 ## Informations et participation au groupe de travail
 Pour être tenu au courant et/ou participer aux échanges du GT CNIG Aménagement et ses sous-groupes, merci de [contacter le CNIG](http://cnig.gouv.fr/spip.php?page=contact). Il est également possible de s'abonner à la [lettre d'information du CNIG](http://cnig.gouv.fr/).
 
 ## Contributions
-N'hésitez pas à utiliser les [Issues de ce Github](https://github.com/cnigfr/zones-activites-economiques/issues) pour toute expression de besoin, proposition d'amélioration du projet de standard Site Economique, retour utilisateur, etc.
+N'hésitez pas à utiliser les [Issues de ce Github](https://github.com/cnigfr/zones-activites-economiques/issues) pour toute expression de besoin, proposition d'amélioration du projet de standard Sites Economiques, retour utilisateur, etc.
 
 ## Actualisation
-Le projet de standard Site Economique, puis le standard une fois validé par le CNIG, évoluera en fonction des évolutions réglementaires et de l'expression des besoins de la communauté des utlisateurs.
+Le projet de standard Sites Economiques, puis le standard une fois validé par le CNIG, évoluera en fonction des évolutions réglementaires et de l'expression des besoins de la communauté des utlisateurs.
 
-Les ressources associées et les bases de données correspondantes seront actualisées conformément au standard CNIG Site Economique.
+Les ressources associées et les bases de données correspondantes seront actualisées conformément au standard CNIG Sites Economiques.
 Les mises à jour de base de données sont effectuées en modifiant le cas échéant les données qui y figurent déjà.
 
 ## OpenData - Données ouvertes
