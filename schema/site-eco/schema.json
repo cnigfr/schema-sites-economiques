@@ -150,6 +150,14 @@
       "constraints": {"required":true}
      },
      {
+      "name": "source_producteur",
+      "title": "producteur de la donnée",
+      "description": "identification du producteur de la donnée",
+	  "example": "DDT de la Somme",
+      "type": "string",
+      "constraints": {"required":false}
+     },
+	 {
       "name": "site_description",
       "title": "commentaire libre",
       "description": "commentaire libre contenant des infos descriptives du site économique",
@@ -544,7 +552,7 @@
       "constraints": {"required":false}
      },
      {
-      "name": "aeroport_dist",
+      "name": "port_dist",
       "title": "distance au port",
       "description": "distance (en km) du port maritime ou fluvial le plus proche, par la route",
 	  "example": 4,
