@@ -111,7 +111,7 @@
       "title": "superficie totale",
       "description": "superficie totale du site économique en hectare",
 	  "example": 37.2,
-      "type": "real",
+      "type": "number",
       "constraints": {"required":true}
      },
      {
@@ -119,14 +119,14 @@
       "title": "superficie utile",
       "description": "Surface (en hectare) destinée à accueillir les implantations d'activités",
 	  "example": 35.3,
-      "type": "real",
+      "type": "number",
       "constraints": {"required":true}
      },
      {
       "name": "site_creation_date",
       "title": "année de création",
       "description": "année de création du site économique",
-	  "example": 2015,
+	  "example": "2015",
       "type": "date",
       "format": "%Y",
       "constraints": {"required":true}
@@ -187,8 +187,11 @@
       "title": "page web",
       "description": "URL de la page web descriptive du site économique",
 	  "example": "https://les-bornes-du-temps/index.html",
-      "type": "url",
-      "constraints": {"required":false}
+     "type": "string",
+     "constraints": {
+         "required": false,
+         "pattern": "^(https?)://[^\\s/$.?#].[^\\s]*$"
+     }
      },
      {
       "name": "site_epci_nom",
@@ -324,15 +327,18 @@
       "title": "médias",
       "description": "URL pointant vers un (des) média(s) : photo, vidéo, etc. du site éco.",
 	  "example": "https://les-bornes-du-temps/futur-media/index.html",
-      "type": "url",
-      "constraints": {"required":false}
+     "type": "string",
+     "constraints": {
+         "required": false,
+         "pattern": "^(https?)://[^\\s/$.?#].[^\\s]*$"
+     }
      },
      {
       "name": "site_surf_comm_dispo",
       "title": "surface commercialisable",
       "description": "surface disponible à la commercialisation, en hectare",
 	  "example": "5.7",
-      "type": "real",
+      "type": "number",
       "constraints": {"required":false}
      },
      {
@@ -340,134 +346,134 @@
       "title": "surface réservée",
       "description": "surface réservée pour des projets en cours, en hectare",
 	  "example": "12",
-      "type": "real",
+      "type": "number",
       "constraints": {"required":false}
      },
      {
       "name": "site_voca_industrielle",
       "title": "présence activité industrielle",
-      "description": "le site comprend (oui \/ non) au moins une activité industrielle",
-	  "example": "oui",
+      "description": "le site comprend (true | false) au moins une activité industrielle",
+	  "example": true,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "site_voca_commerciale",
       "title": "présence activité commerciale",
-      "description": "le site comprend (oui \/ non) au moins une activité commerciale",
-	  "example": "non",
+      "description": "le site comprend (true | false) au moins une activité commerciale",
+	  "example": false,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "site_voca_tertiaire",
       "title": "présence activité tertiaire",
-      "description": "le site comprend (oui \/ non) au moins une activité tertiaire",
-	  "example": "oui",
+      "description": "le site comprend (true | false) au moins une activité tertiaire",
+	  "example": true,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "site_voca_artisanale",
       "title": "présence activité artisanale",
-      "description": "le site comprend (oui \/ non) au moins une activité artisanale",
-	  "example": "oui",
+      "description": "le site comprend (true | false) au moins une activité artisanale",
+	  "example": true,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "site_voca_touristique",
       "title": "présence activité touristique",
-      "description": "le site comprend (oui \/ non) au moins une activité touristique",
-	  "example": "non",
+      "description": "le site comprend (true | false) au moins une activité touristique",
+	  "example": false,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "site_voca_portuaire",
       "title": "présence activité portuaire",
-      "description": "le site comprend (oui \/ non) au moins une activité portuaire",
-	  "example": "non",
+      "description": "le site comprend (true | false) au moins une activité portuaire",
+	  "example": false,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "site_voca_aeroportuaire",
       "title": "présence activité aéroportuaire",
-      "description": "le site comprend (oui \/ non) au moins une activité aéroportuaire",
-	  "example": "non",
+      "description": "le site comprend (true | false) au moins une activité aéroportuaire",
+	  "example": false,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "reseau_eau_pluviale",
       "title": "présence réseau d'eau pluviale",
-      "description": "le site est équipé (oui \/ non) d'un réseau d'eau pluviale",
-	  "example": "oui",
+      "description": "le site est équipé (true | false) d'un réseau d'eau pluviale",
+	  "example": true,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "reseau_eau_potable",
       "title": "présence réseau d'eau potable",
-      "description": "le site est équipé (oui \/ non) d'un réseau d'eau potable",
-	  "example": "oui",
+      "description": "le site est équipé (true | false) d'un réseau d'eau potable",
+	  "example": true,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "reseau_assainissement",
       "title": "présence réseau d'assainissement",
-      "description": "le site est équipé (oui \/ non) d'un réseau d'assainissement",
-	  "example": "oui",
+      "description": "le site est équipé (true | false) d'un réseau d'assainissement",
+	  "example": true,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "reseau_gaz",
       "title": "présence réseau de gaz",
-      "description": "le site est équipé (oui \/ non) d'un réseau de gaz",
-	  "example": "oui",
+      "description": "le site est équipé (true | false) d'un réseau de gaz",
+	  "example": true,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "reseau_electrique",
       "title": "présence réseau électrique",
-      "description": "le site est équipé (oui \/ non) d'un réseau électrique",
-	  "example": "oui",
+      "description": "le site est équipé (true | false) d'un réseau électrique",
+	  "example": true,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "reseau_fibre_optique",
       "title": "présence réseau de fibre optique",
-      "description": "le site est équipé (oui \/ non) d'un réseau de fibre optique",
-	  "example": "oui",
+      "description": "le site est équipé (true | false) d'un réseau de fibre optique",
+	  "example": true,
       "type": "boolean",
       "constraints": {"required":false}
      },
      {
       "name": "reseau_fret_ferroviaire",
       "title": "présence d’une ITE",
-      "description": "présence (oui \/ non) d'une Installation Terminale Embranchée (ITE)",
-	  "example": "non",
+      "description": "présence (true | false) d'une Installation Terminale Embranchée (ITE)",
+	  "example": false,
       "type": "boolean",
       "constraints": {"required":false}
      },
 	 {
       "name": "reseau_fluvial",
       "title": "présence d’un réseau fluvial",
-      "description": "présence (oui \/ non) d'un quai fluvial",
-	  "example": "non",
+      "description": "présence (true | false) d'un quai fluvial",
+	  "example": false,
       "type": "boolean",
       "constraints": {"required":false}
      },
 	 {
       "name": "desserte_tc",
       "title": "présence de transport en commun",
-      "description": "présence (oui \/ non) d’une desserte de transport en commun",
-	  "example": "oui",
+      "description": "présence (true | false) d’une desserte de transport en commun",
+	  "example": true,
       "type": "boolean",
       "constraints": {"required":false}
      },

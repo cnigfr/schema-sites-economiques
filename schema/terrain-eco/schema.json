@@ -84,14 +84,14 @@
       "title": "superficie brute",
       "description": "superficie brute du terrain économique en hectare",
       "example": 9.9,
-      "type": "real",
+      "type": "number",
       "constraints": {"required": true}
      },
      {
       "name": "‍terr_utile",
       "title": "superficie à prendre en compte",
-      "description": "superficie à prendre en compte (oui \/ non) dans le calcul de la surface utile du site",
-      "example": "oui",
+      "description": "superficie à prendre en compte (true | false) dans le calcul de la surface utile du site",
+      "example": true,
       "type": "boolean",
       "constraints": {"required": true}
      },
@@ -223,7 +223,7 @@
       "name": "‍terr_cle_en_main",
       "title": "terrain clé en main",
       "description": "terrain purgé de tout recours et directement prêt à l'implantation d'activité",
-      "example": "oui",
+      "example": true,
       "type": "boolean",
       "constraints": {"required": false}
      },
