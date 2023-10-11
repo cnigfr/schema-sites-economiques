@@ -352,130 +352,226 @@
      {
       "name": "site_voca_industrielle",
       "title": "présence activité industrielle",
-      "description": "le site comprend (true | false) au moins une activité industrielle",
-	  "example": true,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site comprend ('oui' ou 'non') au moins une activité industrielle",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "site_voca_commerciale",
       "title": "présence activité commerciale",
-      "description": "le site comprend (true | false) au moins une activité commerciale",
-	  "example": false,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site comprend ('oui' ou 'non') au moins une activité commerciale",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "site_voca_tertiaire",
       "title": "présence activité tertiaire",
-      "description": "le site comprend (true | false) au moins une activité tertiaire",
-	  "example": true,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site comprend ('oui' ou 'non') au moins une activité tertiaire",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "site_voca_artisanale",
       "title": "présence activité artisanale",
-      "description": "le site comprend (true | false) au moins une activité artisanale",
-	  "example": true,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site comprend ('oui' ou 'non') au moins une activité artisanale",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "site_voca_touristique",
       "title": "présence activité touristique",
-      "description": "le site comprend (true | false) au moins une activité touristique",
-	  "example": false,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site comprend ('oui' ou 'non') au moins une activité touristique",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "site_voca_portuaire",
       "title": "présence activité portuaire",
-      "description": "le site comprend (true | false) au moins une activité portuaire",
-	  "example": false,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site comprend ('oui' ou 'non') au moins une activité portuaire",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "site_voca_aeroportuaire",
       "title": "présence activité aéroportuaire",
-      "description": "le site comprend (true | false) au moins une activité aéroportuaire",
-	  "example": false,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site comprend ('oui' ou 'non') au moins une activité aéroportuaire",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "reseau_eau_pluviale",
       "title": "présence réseau d'eau pluviale",
-      "description": "le site est équipé (true | false) d'un réseau d'eau pluviale",
-	  "example": true,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site est équipé ('oui' ou 'non') d'un réseau d'eau pluviale",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "reseau_eau_potable",
       "title": "présence réseau d'eau potable",
-      "description": "le site est équipé (true | false) d'un réseau d'eau potable",
-	  "example": true,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site est équipé ('oui' ou 'non') d'un réseau d'eau potable",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "reseau_assainissement",
       "title": "présence réseau d'assainissement",
-      "description": "le site est équipé (true | false) d'un réseau d'assainissement",
-	  "example": true,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site est équipé ('oui' ou 'non') d'un réseau d'assainissement",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "reseau_gaz",
       "title": "présence réseau de gaz",
-      "description": "le site est équipé (true | false) d'un réseau de gaz",
-	  "example": true,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site est équipé ('oui' ou 'non') d'un réseau de gaz",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "reseau_electrique",
       "title": "présence réseau électrique",
-      "description": "le site est équipé (true | false) d'un réseau électrique",
-	  "example": true,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site est équipé ('oui' ou 'non') d'un réseau électrique",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "reseau_fibre_optique",
       "title": "présence réseau de fibre optique",
-      "description": "le site est équipé (true | false) d'un réseau de fibre optique",
-	  "example": true,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "le site est équipé ('oui' ou 'non') d'un réseau de fibre optique",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "reseau_fret_ferroviaire",
       "title": "présence d’une ITE",
-      "description": "présence (true | false) d'une Installation Terminale Embranchée (ITE)",
-	  "example": false,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "présence ('oui' ou 'non') d'une Installation Terminale Embranchée (ITE)",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
 	 {
       "name": "reseau_fluvial",
       "title": "présence d’un réseau fluvial",
-      "description": "présence (true | false) d'un quai fluvial",
-	  "example": false,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "présence ('oui' ou 'non') d'un quai fluvial",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
 	 {
       "name": "desserte_tc",
       "title": "présence de transport en commun",
-      "description": "présence (true | false) d’une desserte de transport en commun",
-	  "example": true,
-      "type": "boolean",
-      "constraints": {"required":false}
+      "description": "présence ('oui' ou 'non') d’une desserte de transport en commun",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "desserte_route_nom",
