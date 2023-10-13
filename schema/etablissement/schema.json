@@ -275,7 +275,7 @@
      {
       "name": "etab_source_info",
       "title": "source information",
-      "description": "indication de la source de l'information sur l'établissement",
+      "description": "indication de la (des) source(s) d'information sur l'établissement",
       "example": "CCI de Amiens",
       "type": "string",
       "constraints": {"required": true}
