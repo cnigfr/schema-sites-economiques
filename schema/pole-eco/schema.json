@@ -151,7 +151,7 @@
       "example": 21,
       "type": "integer",
       "constraints":{
-         "required":false
+         "required":true
 	  }
      },
      {
