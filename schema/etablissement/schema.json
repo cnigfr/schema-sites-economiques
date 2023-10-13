@@ -258,7 +258,7 @@
      {
       "name": "etab_effectif_libelle",
       "title": "libellé tranche effectif",
-      "description": "libellé de la tranche d'effectif salarié de l'établissement, fournis par la base SIREN de l'INSEE",
+      "description": "libellé de la tranche d'effectif salarié de l'établissement, fournis par la base SIRENE de l'INSEE",
       "example": "6 à 9 salariés",
       "type": "string",
       "constraints": {"required": true}
