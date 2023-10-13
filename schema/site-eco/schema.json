@@ -129,7 +129,7 @@
 	  "example": "2015",
       "type": "date",
       "format": "%Y",
-      "constraints": {"required":true}
+      "constraints": {"required":false}
      },
      {
       "name": "site_identif_date",
