@@ -128,14 +128,6 @@
       "constraints": {"required": true}
      },
      {
-      "name": "etab_enseigne",
-      "title": "enseigne",
-      "description": "enseigne de l'établissement",
-      "example": "MAN TRUCK",
-      "type": "string",
-      "constraints": {"required": true}
-     },
-     {
       "name": "epci_nom",
       "title": "nom de l’EPCI",
       "description": "nom de l'EPCI où se situe l'établissement",
