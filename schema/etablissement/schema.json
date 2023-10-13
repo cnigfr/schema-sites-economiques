@@ -59,7 +59,7 @@
       "name": "SIRET",
       "title": "code SIRET",
       "description": "code SIRET de l'établissement",
-      "example": 34749951900010,
+      "example": "34749951900010",
       "type": "string",
       "constraints": {"required": true}
      },
@@ -67,14 +67,14 @@
       "name": "SIREN",
       "title": "code SIREN",
       "description": "code SIREN de l'entreprise",
-      "example": 347499519,
+      "example": "347499519",
       "type": "string",
       "constraints": {"required": true}
      },
      {
       "name": "terr_id",
       "title": "liste des terrains",
-      "description": "Liste des identifiants de TERRAIN-ECO où se situe l'établissement.",
+      "description": "Liste des identifiants de TERRAIN-ECO où se situe l'établissement, séparés par des pipes '|'.",
       "example": "44003_TERRAIN-ECO_ 000131|44003_TERRAIN-ECO_00115",
       "type": "string",
       "constraints": {"required": true}
@@ -90,7 +90,7 @@
      {
       "name": "bat-id",
       "title": "référence au RNB",
-      "description": "Liste des identifiants de bâtiments dans le référentiel national des bâtiments. Le bâtiment principal est listé en premier.",
+      "description": "Liste des identifiants de bâtiments dans le référentiel national des bâtiments, séparés par des pipes '|'. Le bâtiment principal est listé en premier.",
       "example": "LB4A-145Q-EXJ3|BAN9-6QE3-V62D|EM6H-F57J-7UDG",
       "type": "string",
       "constraints": {"required": false}
@@ -115,7 +115,7 @@
       "name": "etab_nat_juridique",
       "title": "nature juridique",
       "description": "code de la catégorie juridique de l'entreprise en se référant au 3ème niveau\nDe la nomenclature des catégories juridiques de l'INSEE.",
-      "example": 5710,
+      "example": "5710",
       "type": "string",
       "constraints": {"required": true}
      },
@@ -147,7 +147,7 @@
       "name": "epci_siren",
       "title": "code SIREN de l’EPCI",
       "description": "code SIREN de l'EPCI où se situe l'établissement",
-      "example": 200071223,
+      "example": "200071223",
       "type": "string",
       "constraints": {"required": true}
      },
@@ -163,17 +163,23 @@
       "name": "comm_insee",
       "title": "code INSEE de la commune",
       "description": "code INSEE de la commune où se situe l'établissement",
-      "example": 80718,
+      "example": "80718",
       "type": "string",
       "constraints": {"required": true}
      },
      {
       "name": "etab_siege",
       "title": "qualité de siège",
-      "description": "qualité de siège de l'établissement (oui \/ non)",
-      "example": "Oui",
-      "type": "boolean",
-      "constraints": {"required": true}
+      "description": "qualité de siège de l'établissement ('oui' ou 'non')",
+      "example": "oui",
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "etab_creation_date",
@@ -205,10 +211,16 @@
      {
       "name": "etab_actif",
       "title": "qualité d’activité",
-      "description": "établissement en activité (oui \/ non)",
+      "description": "établissement en activité ('oui' ou 'non')",
       "example": "oui",
-      "type": "boolean",
-      "constraints": {"required": true}
+      "type": "string",
+      "constraints": {
+         "required": false,
+         "enum": [
+            "oui",
+            "non"
+         ]
+      }
      },
      {
       "name": "etab_fermeture_date",
@@ -247,7 +259,7 @@
       "name": "etab_effectif_code",
       "title": "code tranche effectif",
       "description": "code INSEE de la tranche d'effectif salarié de l'établissement",
-      "example": 3,
+      "example": "3",
       "type": "string",
       "constraints": {"required": true}
      },
@@ -263,7 +275,7 @@
       "name": "etab_effectif_annee",
       "title": "millésime tranche effectif",
       "description": "millésime de la tranche d'effectif salarié de l'établissement",
-      "example": 2022,
+      "example": "2022",
       "type": "date",
       "format": "%Y",
       "constraints": {"required": true}
@@ -284,13 +296,13 @@
       "type": "string",
       "constraints": {"required": true},
       "enum": [
-	     "non localisé",
-		 "localisation à la commune",
-		 "localisation au lieu-dit",
-		 "localisation à la rue (sans numéro)",
-		 "localisation à la plaque adresse",
-		 "localisation à la parcelle",
-		 "localisation au bâtiment"
+         "non localisé",
+         "localisation à la commune",
+         "localisation au lieu-dit",
+         "localisation à la rue (sans numéro)",
+         "localisation à la plaque adresse",
+         "localisation à la parcelle",
+         "localisation au bâtiment"
 		 ]
      },
      {
@@ -307,7 +319,8 @@
       "title": "adresse mail",
       "description": "mail de contact de l'établissement",
       "example": "mantruck-contact@gmail.com",
-      "type": "mail",
+      "type": "string",
+      "format": "email",
       "constraints": {"required": false}
      },
      {
