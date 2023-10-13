@@ -2,98 +2,98 @@
 
 Standard CNIG Site Economique
 
-SpÈcification du fichier d'Èchange conforme au standard CNIG Site Economique pour la classe POLE-ECO : PÙle Èconomique 
+Sp√©cification du fichier d'√©change conforme au standard CNIG Site Economique pour la classe POLE-ECO : P√¥le √©conomique 
 
-- SchÈma crÈÈ le : 08/22/23
+- Sch√©ma cr√©√© le : 08/22/23
 - Site web : https://github.com/cnigfr/schema-zones-activites-economiques
 - Version : v1.0.0
 - Valeurs manquantes : `""`, `"NA"`, `"NaN"`, `"N/A"`
-- ClÈ primaire†: `pole_id`
+- Cl√© primaire¬†: `pole_id`
 
-### ModËle de donnÈes
+### Mod√®le de donn√©es
 
 
-##### Liste des propriÈtÈs
+##### Liste des propri√©t√©s
 
-| PropriÈtÈ | Type | Obligatoire |
+| Propri√©t√© | Type | Obligatoire |
 | -- | -- | -- |
-| [pole_id](#identifiant---propriÈtÈ-pole_id) | chaÓne de caractËres  | Oui |
-| [pole_nom](#nom---propriÈtÈ-pole_nom) | chaÓne de caractËres  | Oui |
-| [pole_vocadomi](#vocation-dominante---propriÈtÈ-pole_vocadomi) | chaÓne de caractËres  | Oui |
-| [pole_identif_date](#date-d'identification---propriÈtÈ-pole_identif_date) | date (format `%Y-%m-%d`) | Oui |
-| [pole_actu_date](#date-de-derniËre-actualisation---propriÈtÈ-pole_actu_date) | date (format `%Y-%m-%d`) | Non |
-| [pole_nb_etab](#nombre-d'Ètablissements---propriÈtÈ-pole_nb_etab) | nombre entier  | Non |
-| [pole_nb_emploi](#nombre-d'emploi---propriÈtÈ-pole_nb_emploi) | nombre entier  | Non |
-| [pole_surface](#surface----propriÈtÈ-pole_surface) | nombre entier  | Non |
-| [pole_geompoint](#localisation---propriÈtÈ-pole_geompoint) | chaÓne de caractËres  | Oui |
-| [pole_rayonnement](#rayonnement----propriÈtÈ-pole_rayonnement) | chaÓne de caractËres  | Non |
+| [pole_id](#identifiant---propri√©t√©-pole_id) | cha√Æne de caract√®res  | Oui |
+| [pole_nom](#nom---propri√©t√©-pole_nom) | cha√Æne de caract√®res  | Oui |
+| [pole_vocadomi](#vocation-dominante---propri√©t√©-pole_vocadomi) | cha√Æne de caract√®res  | Oui |
+| [pole_identif_date](#date-d'identification---propri√©t√©-pole_identif_date) | date (format `%Y-%m-%d`) | Oui |
+| [pole_actu_date](#date-de-derni√®re-actualisation---propri√©t√©-pole_actu_date) | date (format `%Y-%m-%d`) | Non |
+| [pole_nb_etab](#nombre-d'√©tablissements---propri√©t√©-pole_nb_etab) | nombre entier  | Non |
+| [pole_nb_emploi](#nombre-d'emploi---propri√©t√©-pole_nb_emploi) | nombre entier  | Non |
+| [pole_surface](#surface----propri√©t√©-pole_surface) | nombre entier  | Non |
+| [pole_geompoint](#localisation---propri√©t√©-pole_geompoint) | cha√Æne de caract√®res  | Oui |
+| [pole_rayonnement](#rayonnement----propri√©t√©-pole_rayonnement) | cha√Æne de caract√®res  | Non |
 
-#### identifiant - PropriÈtÈ `pole_id`
+#### identifiant - Propri√©t√© `pole_id`
 
-> *Description : identifiant du pÙle Èconomique dÈfini dans le standard CNIG Site Economique<br/>Ex : 44003_POLE-ECO_00162*
+> *Description : identifiant du p√¥le √©conomique d√©fini dans le standard CNIG Site Economique<br/>Ex : 44003_POLE-ECO_00162*
 - Valeur obligatoire
-- Type : chaÓne de caractËres
+- Type : cha√Æne de caract√®res
 
-#### nom - PropriÈtÈ `pole_nom`
+#### nom - Propri√©t√© `pole_nom`
 
-> *Description : nom usuel du pÙle Èconomique<br/>Ex : Apt activitÈs*
+> *Description : nom usuel du p√¥le √©conomique<br/>Ex : Apt activit√©s*
 - Valeur obligatoire
-- Type : chaÓne de caractËres
+- Type : cha√Æne de caract√®res
 
-#### vocation dominante - PropriÈtÈ `pole_vocadomi`
+#### vocation dominante - Propri√©t√© `pole_vocadomi`
 
-> *Description : vocation dominante du pÙle Èconomique, issue de la vocation dominante des sites Èconomiques le constituant.<br/>Ex : mixte ‡ dominante industrielle*
+> *Description : vocation dominante du p√¥le √©conomique, issue de la vocation dominante des sites √©conomiques le constituant.<br/>Ex : mixte √† dominante industrielle*
 - Valeur obligatoire
-- Type : chaÓne de caractËres
-- Valeurs autorisÈes : 
-    - mixte ‡ dominante commerciale
-    - mixte ‡ dominante logistique
-    - mixte ‡ dominante industrielle
-    - mixte ‡ dominante tertiaire
+- Type : cha√Æne de caract√®res
+- Valeurs autoris√©es : 
+    - mixte √† dominante commerciale
+    - mixte √† dominante logistique
+    - mixte √† dominante industrielle
+    - mixte √† dominante tertiaire
 
-#### date d'identification - PropriÈtÈ `pole_identif_date`
+#### date d'identification - Propri√©t√© `pole_identif_date`
 
-> *Description : date d'identification du pÙle Èconomique<br/>Ex : 2016-03-26*
+> *Description : date d'identification du p√¥le √©conomique<br/>Ex : 2016-03-26*
 - Valeur obligatoire
 - Type : date (format `%Y-%m-%d`)
 
-#### date de derniËre actualisation - PropriÈtÈ `pole_actu_date`
+#### date de derni√®re actualisation - Propri√©t√© `pole_actu_date`
 
-> *Description : date de derniËre actualisation des informations sur le pÙle Èconomique.<br/>Ex : 2022-08-22*
+> *Description : date de derni√®re actualisation des informations sur le p√¥le √©conomique.<br/>Ex : 2022-08-22*
 - Valeur optionnelle
 - Type : date (format `%Y-%m-%d`)
 
-#### nombre d'Ètablissements - PropriÈtÈ `pole_nb_etab`
+#### nombre d'√©tablissements - Propri√©t√© `pole_nb_etab`
 
-> *Description : nombre d'Ètablissements du pÙle Èconomique<br/>Ex : 38*
+> *Description : nombre d'√©tablissements du p√¥le √©conomique<br/>Ex : 38*
 - Valeur optionnelle
 - Type : nombre entier
 
-#### nombre d'emploi - PropriÈtÈ `pole_nb_emploi`
+#### nombre d'emploi - Propri√©t√© `pole_nb_emploi`
 
-> *Description : nombre total d'emplois du pÙle Èconomique<br/>Ex : 1152*
+> *Description : nombre total d'emplois du p√¥le √©conomique<br/>Ex : 1152*
 - Valeur optionnelle
 - Type : nombre entier
 
-#### surface  - PropriÈtÈ `pole_surface`
+#### surface  - Propri√©t√© `pole_surface`
 
-> *Description : somme des surfaces des sites Èconomiques constituant le pÙle<br/>Ex : 21*
+> *Description : somme des surfaces des sites √©conomiques constituant le p√¥le<br/>Ex : 21*
 - Valeur optionnelle
 - Type : nombre entier
 
-#### localisation - PropriÈtÈ `pole_geompoint`
+#### localisation - Propri√©t√© `pole_geompoint`
 
-> *Description : coordonnÈes gÈographiques du centroÔde du pÙle Èconomique au format WKT<br/>Ex : POINT(49.2527 3.9815)*
+> *Description : coordonn√©es g√©ographiques du centro√Øde du p√¥le √©conomique au format geopoint (https://specs.frictionlessdata.io//table-schema/#geopoint)<br/>Ex : "3.9815, 49.2527"*
 - Valeur obligatoire
-- Type : chaÓne de caractËres
+- Type : cha√Æne de caract√®res
 
-#### rayonnement  - PropriÈtÈ `pole_rayonnement`
+#### rayonnement  - Propri√©t√© `pole_rayonnement`
 
-> *Description : rayonnement du pÙle Èconomique<br/>Ex : rÈgional*
+> *Description : rayonnement du p√¥le √©conomique<br/>Ex : r√©gional*
 - Valeur optionnelle
-- Type : chaÓne de caractËres
-- Valeurs autorisÈes : 
+- Type : cha√Æne de caract√®res
+- Valeurs autoris√©es : 
     - international
     - national
-    - rÈgional
+    - r√©gional
     - local
