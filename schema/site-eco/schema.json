@@ -301,7 +301,7 @@
      {
       "name": "site_nb_emploi",
       "title": "nombre d'emplois",
-      "description": "nombre d'emplois du site économique",
+      "description": "estimation du nombre d'emplois du site économique",
 	   "example": 856,
       "type": "number",
       "constraints": {"required":false}
