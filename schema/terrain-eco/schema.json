@@ -219,10 +219,9 @@
      {
       "name": "terr_geomsurf",
       "title": "géométrie",
-      "description": "géométrie surfacique du terrain économique au format WKT",
-      "example": "POLYGON((50.3654 3.1154,50.2145 4.2376,50.8890 3.6398,50.2254 3.7340))",
-      "type": "geosurf",
-      "format": "WKT polygon",
+      "description": "géométrie surfacique du terrain économique au format geojson (https://specs.frictionlessdata.io//table-schema/#geojson)",
+      "example": "{\"type\": \"Polygon\", \"coordinates\": [[[30.0, 10.0],[40.0, 40.0],[20.0, 40.0],[10.0, 20.0],[30.0, 10.0]]]}",
+      "type": "geojson",
       "constraints": {"required": true}
      },
 	 {
@@ -261,7 +260,7 @@
       "title": "montant de la vente",
       "description": "montant de la vente",
       "example": 530000,
-      "type": "integer",
+      "type": "number",
       "constraints": {"required": false}
      },
      {
@@ -269,7 +268,7 @@
       "title": "prix au m²",
       "description": "prix au m²",
       "example": 5.35,
-      "type": "integer",
+      "type": "number",
       "constraints": {"required": false}
      }
    ],

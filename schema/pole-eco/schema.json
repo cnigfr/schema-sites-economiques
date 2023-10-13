@@ -119,7 +119,7 @@
       "title": "nombre de sites",
       "description": "nombre de sites composant le pôle économique.",
       "example": 2,
-      "type": "integer",
+      "type": "number",
       "constraints":{
          "required":false
 	  }
@@ -129,7 +129,7 @@
       "title": "nombre d'établissements",
       "description": "nombre total d'établissements du pôle économique",
       "example": 40,
-      "type": "integer",
+      "type": "number",
       "constraints":{
          "required":false
 	  }
@@ -139,7 +139,7 @@
       "title": "nombre d'emploi",
       "description": "nombre total d'emplois du pôle économique",
       "example": 1152,
-      "type": "integer",
+      "type": "number",
       "constraints":{
          "required":false
 	  }
@@ -149,7 +149,7 @@
       "title": "surface ",
       "description": "somme des surfaces (en ha) des sites économiques constituant le pôle",
       "example": 21,
-      "type": "integer",
+      "type": "number",
       "constraints":{
          "required":true
 	  }
@@ -157,9 +157,10 @@
      {
       "name": "pole_geompoint",
       "title": "localisation",
-      "description": "coordonnées géographiques du centroïde du pôle économique au format WKT",
-      "example": "POINT(49.2527 3.9815)",
-      "type": "string",
+      "description": "coordonnées géographiques du centroïde du pôle économique au format geopoint (https://specs.frictionlessdata.io//table-schema/#geopoint)",
+      "example": "3.9815, 49.2527",
+      "type": "geopoint",
+      "format": "default",
       "constraints":{
          "required":true
 	  }
