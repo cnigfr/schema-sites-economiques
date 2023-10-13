@@ -25,7 +25,7 @@ Spécification du fichier d'échange conforme au standard CNIG Site Economique p
 | [pole_nb_etab](#nombre-d'établissements---propriété-pole_nb_etab) | nombre entier  | Non |
 | [pole_nb_emploi](#nombre-d'emploi---propriété-pole_nb_emploi) | nombre entier  | Non |
 | [pole_surface](#surface----propriété-pole_surface) | nombre entier  | Non |
-| [pole_geompoint](#localisation---propriété-pole_geompoint) | chaîne de caractères  | Oui |
+| [pole_geompoint](#localisation---propriété-pole_geompoint) | geopoint  | Oui |
 | [pole_rayonnement](#rayonnement----propriété-pole_rayonnement) | chaîne de caractères  | Non |
 
 #### identifiant - Propriété `pole_id`
@@ -85,7 +85,7 @@ Spécification du fichier d'échange conforme au standard CNIG Site Economique p
 
 > *Description : coordonnées géographiques du centroïde du pôle économique au format geopoint (https://specs.frictionlessdata.io//table-schema/#geopoint)<br/>Ex : "3.9815, 49.2527"*
 - Valeur obligatoire
-- Type : chaîne de caractères
+- Type : geopoint
 
 #### rayonnement  - Propriété `pole_rayonnement`
 
