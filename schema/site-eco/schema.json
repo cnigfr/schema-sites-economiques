@@ -264,7 +264,7 @@
       "description": "nombre d'unités foncières du site économique",
 	  "example": 15,
       "type": "integer",
-      "constraints": {"required":true}
+      "constraints": {"required":false}
      },
      {
       "name": "site_uf_vacant_nbre",
@@ -272,7 +272,7 @@
       "description": "nombre d'unités foncières vacantes du site économique",
 	  "example": 2,
       "type": "integer",
-      "constraints": {"required":true}
+      "constraints": {"required":false}
      },
      {
       "name": "site_taux_vacance",
@@ -280,7 +280,7 @@
       "description": "taux de vacance de la ZAE suivant article L318-8-2 CU",
 	  "example": 13,
       "type": "integer",
-      "constraints": {"required":true}
+      "constraints": {"required":false}
      },
      {
       "name": "site_uf_bati_nbre",
