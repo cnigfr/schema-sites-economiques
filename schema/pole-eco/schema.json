@@ -84,10 +84,16 @@
       "constraints":{
          "required":true,
          "enum":[
-            "mixte à dominante commerciale",
-	        "mixte à dominante logistique",
-		    "mixte à dominante industrielle",
-		    "mixte à dominante tertiaire"
+		 "industrielle",
+		 "commerciale",
+		 "tertiaire",
+		 "artisanale",
+		 "touristique",
+		 "portuaire",
+		 "aéroportuaire, aéronautique",
+		 "entrepôts, logistique",
+		 "logistique agricole",
+		 "mixte, sans dominante"
                 ]
 	     }	
 				   
