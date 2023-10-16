@@ -187,10 +187,10 @@
       "constraints": {"required": true},
       "enum": [
 	     "inoccupé",
-		 "occupation transitoire",
-		 "occupé",
-		 "vacant",
-		 "friche"
+	      "occupation en transition",
+	      "occupé",
+	      "vacant",
+	      "friche"
 	  ]
      },
      {
