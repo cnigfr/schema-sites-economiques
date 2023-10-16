@@ -122,7 +122,7 @@
      {
       "name": "terr_maitrise_fonc",
       "title": "maîtrise foncière",
-      "description": "maîtrise foncière du terrain économique",
+      "description": "maîtrise foncière majoritaire du terrain économique",
       "example": "structure intercommunale",
       "type": "string",
       "constraints": {"required": true},
