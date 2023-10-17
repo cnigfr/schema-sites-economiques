@@ -86,7 +86,15 @@
 	   "example": "Zone d'activité économique",
       "type": "string",
       "constraints": {"required":true},
-	   "enum": ["zone d'activité économique","site économique historique hors ZAE","établissement économique isolé","réserve foncière"]
+	   "enum": [
+		   "zone d'activité économique",
+		   "site économique historique hors ZAE",
+		   "établissement économique isolé",
+		   "réserve foncière",
+		   "inconnu",
+		   "autre",
+		   "sans objet"
+	   ]
      },
      {
       "name": "site_vocadomi",
@@ -95,7 +103,21 @@
 	   "example": "entrepôts, logistique",
       "type": "string",
       "constraints": {"required":true},
-	   "enum": ["industrielle","commerciale","tertiaire","artisanale","touristique","portuaire","aéroportuaire, aéronautique","entrepôts, logistique","logistique agricole","mixte"]
+	   "enum": [
+		   "industrielle",
+		   "commerciale",
+		   "tertiaire",
+		   "artisanale",
+		   "touristique",
+		   "portuaire",
+		   "aéroportuaire, aéronautique",
+		   "entrepôts, logistique",
+		   "logistique agricole",
+		   "mixte",
+		   "inconnu",
+		   "autre",
+		   "sans objet"
+	   ]
      },
      {
       "name": "site_etat",
@@ -104,7 +126,17 @@
 	   "example": "existant et actif",
       "type": "string",
       "constraints": {"required":true},
-	   "enum": ["en projet","création","existant et actif","projet de déclassement","déclassé","annulé"]
+	   "enum": [
+		   "en projet",
+		   "création",
+		   "existant et actif",
+		   "projet de déclassement",
+		   "déclassé",
+		   "annulé",
+		   "inconnu",
+		   "autre",
+		   "sans objet"
+	   ]
      },
      {
       "name": "site_surf_brute",
@@ -180,7 +212,14 @@
       "example": "extension",
       "type": "string",
       "constraints": {"required":false},
-      "enum": ["extension urbaine","renouvellement urbain","mixte"]
+      "enum": [
+	      "extension urbaine",
+	      "renouvellement urbain",
+	      "mixte",
+	      "inconnu",
+	      "autre",
+	      "sans objet"
+      ]
      },
      {
       "name": "site_url",
@@ -232,7 +271,17 @@
 	   "example": "EPCI",
       "type": "string",
       "constraints": {"required":true},
-	   "enum": ["commune","epci","société d'économie mixte","chambre de commerce et industrie","Etat","privé"]
+	   "enum": [
+		   "commune",
+		   "epci",
+		   "société d'économie mixte"
+		   ,"chambre de commerce et industrie",
+		   "Etat",
+		   "privé",
+		   "inconnu",
+		   "autre",
+		   "sans objet"
+	   ]
      },
      {
       "name": "site_moa_nom",
@@ -360,8 +409,9 @@
          "required": false,
          "enum": [
             "oui",
-            "non"
-         ]
+            "non",
+	    "inconnu"
+	 ]
       }
      },
      {
