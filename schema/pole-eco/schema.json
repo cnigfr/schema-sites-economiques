@@ -93,7 +93,10 @@
 		 "aéroportuaire, aéronautique",
 		 "entrepôts, logistique",
 		 "logistique agricole",
-		 "mixte, sans dominante"
+		 "mixte, sans dominante",
+		 "inconnu",
+		 "autre",
+		 "sans objet"
                 ]
 	     }	
 				   
@@ -180,10 +183,13 @@
       "constraints":{
          "required":false,
          "enum":[
-            "international",
-	        "national",
-		    "régional",
-		    "local"
+		 "international",
+		 "national",
+		 "régional",
+		 "local",
+		 "inconnu",
+		 "autre",
+		 "sans objet"
                 ]
 		 }		
      }
