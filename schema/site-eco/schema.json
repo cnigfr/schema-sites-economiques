@@ -410,7 +410,6 @@
          "enum": [
             "oui",
             "non",
-	    "inconnu"
 	 ]
       }
      },
