@@ -143,7 +143,10 @@
 		 "établissement de tourisme et structure de loisir sportive ou cultuelle",
 		 "établissement industriel et commercial",
 		 "organisation de gestion foncière et immobilière",
-		 "établissement d'enseignement d'étude et de recherche"
+		 "établissement d'enseignement d'étude et de recherche",
+		 "inconnu",
+		 "autre",
+		 "sans objet"
 	  ]
      },
      {
@@ -158,7 +161,10 @@
 	  "non aménagé, non viabilisé",
 	  "‍viabilisé et aménagé",
 	  "viabilisation en cours",
-	  "viabilisé non aménagé"
+	  "viabilisé non aménagé",
+	  "inconnu",
+          "autre",
+	  "sans objet"
 	  ]
      },
      {
@@ -175,7 +181,10 @@
 		 "en vente avec contraintes",
 		 "vendu / commercialisation achevée",
 		 "réservé par option de réservation",
-		 "réservé par une délibération de l'EPCI"
+		 "réservé par une délibération de l'EPCI",
+		 "inconnu",
+		 "autre",
+		 "sans objet"
 	  ]
      },
      {
@@ -190,7 +199,10 @@
 	      "occupation en transition",
 	      "occupé",
 	      "vacant",
-	      "friche"
+	      "friche",
+	      "inconnu",
+	      "autre",
+	      "sans objet"
 	  ]
      },
      {
@@ -214,7 +226,10 @@
 		 "zone de service partagée entre entreprises",
 		 "carrières, zones d'extraction",
 		 "dépôt, stockage",
-	         "production d’énergie renouvelable"
+	         "production d’énergie renouvelable",
+		 "inconnu",
+		 "autre",
+		 "sans objet"
 	  ]
      },
      {
