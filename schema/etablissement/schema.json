@@ -288,13 +288,16 @@
       "type": "string",
       "constraints": {"required": true},
       "enum": [
-         "non localisé",
-         "localisation à la commune",
-         "localisation au lieu-dit",
-         "localisation à la rue (sans numéro)",
-         "localisation à la plaque adresse",
-         "localisation à la parcelle",
-         "localisation au bâtiment"
+	      "non localisé",
+              "localisation à la commune",
+              "localisation au lieu-dit",
+              "localisation à la rue (sans numéro)",
+              "localisation à la plaque adresse",
+              "localisation à la parcelle",
+              "localisation au bâtiment",
+	      "inconnu",
+	      "autre",
+	      "sans objet"
 		 ]
      },
      {
