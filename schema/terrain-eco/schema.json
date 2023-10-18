@@ -159,9 +159,9 @@
       "enum": [
 	  "non aménageable",
 	  "non aménagé, non viabilisé",
-	  "‍viabilisé et aménagé",
 	  "viabilisation en cours",
 	  "viabilisé non aménagé",
+	  "‍viabilisé et aménagé",
 	  "inconnu",
           "autre",
 	  "sans objet"
