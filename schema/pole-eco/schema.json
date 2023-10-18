@@ -1,16 +1,17 @@
 {
    "$schema":"https://specs.frictionlessdata.io/schemas/table-schema.json",
-   "name":"schema-sites-economiques",
-   "title":"Standard CNIG Site Economique",
-   "description":"Spécification du fichier d'échange conforme au standard CNIG Site Economique pour la classe POLE-ECO : Pôle économique",
+   "name":"schema-sites-economiques-pole-eco",
+   "title":"Schema pole-eco du standard sites-economiques",
+   "description":"Spécification du fichier d'échange conforme au standard CNIG Sites Economiques pour la classe POLE-ECO : Pôle économique",
    "keywords":[
       "landuse",
-	  "economic activity zone",
+      "economic activity zone",
+      "economic activity pole",
       "artificialization",
       "planning",
       "industrial",
-	  "economic", 
-	  "touristic"
+      "economic", 
+      "touristic"
    ],
    "countryCode":"FR",
    "homepage":"https://github.com/cnigfr/schema-sites-economiques",
@@ -27,17 +28,17 @@
       {
          "title":"Fichier valide",
          "name":"exemple-valide-csv",
-         "path":"https://github.com/cnigfr/schema-sites-economiques/schema/pole-eco/raw/v1.0.0/fichier-valide.csv"
+         "path":"https://github.com/cnigfr/schema-sites-economiques/schema/pole-eco/raw/v1.0.0/exemple-valide.csv"
       }
    ],
    "sources":[
       {
-         "title":"Standard Site Economique",
+         "title":"Standard Sites Economiques",
          "path":"https://github.com/cnigfr/schema-sites-economiques/blob/main/standard"
       }
    ],
    "created":"2023-08-22",
-   "lastModified":"2022-08-25",
+   "lastModified":"2023-10-18",
    "version":"v1.0.0",
    "contributors":[
       {
