@@ -1,8 +1,8 @@
 {
    "$schema":"https://specs.frictionlessdata.io/schemas/table-schema.json",
    "name":"schema-sites-economiques-site-eco",
-   "title":"Schema site-eco du standard sites-economiques",
-   "description":"Spécification du fichier d'échange conforme au standard CNIG Sites Economiques pour la classe SITE-ECO : Pôle économique",
+   "title":"Schema de la classe SITE-ECO du standard CNIG Sites Economiques",
+   "description":"Spécification du fichier d'échange conforme au standard CNIG Sites Economiques pour la classe SITE-ECO : Site économique",
    "keywords":[
       "landuse",
       "economic activity zone",
@@ -25,7 +25,7 @@
    ],
    "resources":[
       {
-         "title":"Fichier valide",
+         "title":"Exemple valide",
          "name":"exemple-valide-csv",
          "path":"https://github.com/cnigfr/schema-sites-economiques/schema/site-eco/raw/v1.0.0/exemple-valide.csv"
       }
