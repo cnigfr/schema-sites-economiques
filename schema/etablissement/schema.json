@@ -304,7 +304,7 @@
       "name": "etab_geompoint",
       "title": "géométrie",
       "description": "multi localisations ponctuelles de l'établissement au format geojson (https://specs.frictionlessdata.io//table-schema/#geojson)",
-      "example": "{\"type\": \"MultiPoint\", \"coordinates\": [[2.3626,51.0934], [4.1999,50.7230]]}",
+      "example": {"type": "MultiPoint", "coordinates": [[2.3626,51.0934], [4.1999,50.7230]]},
       "type": "geojson",
       "constraints": {"required": true}
      },
