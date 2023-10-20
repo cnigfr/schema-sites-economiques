@@ -409,7 +409,7 @@
          "required": false,
          "enum": [
             "oui",
-            "non",
+            "non"
 	 ]
       }
      },
