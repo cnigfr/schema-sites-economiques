@@ -359,7 +359,7 @@
       "name": "site_geomsurf",
       "title": "géométrie",
       "description": "multi géométries surfaciques du périmètre du site économique au format geojson (https://specs.frictionlessdata.io//table-schema/#geojson)",
-	   "example": "{\"type\": \"Polygon\", \"coordinates\": [[[30.0, 10.0],[40.0, 40.0],[20.0, 40.0],[10.0, 20.0],[30.0, 10.0]]]}",
+	   "example": {"type": "Polygon", "coordinates": [[[30.0, 10.0],[40.0, 40.0],[20.0, 40.0],[10.0, 20.0],[30.0, 10.0]]]},
       "type": "geojson",
       "constraints": {"required":true}
      },
