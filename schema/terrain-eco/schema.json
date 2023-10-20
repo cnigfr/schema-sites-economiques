@@ -77,7 +77,10 @@
       "description": "liste des identifiants de parcelles cadastrales",
       "example": "80024000ZO0030|80024000ZO0034|80024000ZO0035",
       "type": "string",
-      "constraints": {"required": false}
+      "constraints": {
+         "required": false,
+         "pattern":"(?:(?:^|\\|)(\\d{8}[A-Z]{2}\\d{4}|)\\1+\\d{8}[A-Z]{2}\\d{4})+$"
+      }
      },
      {
       "name": "terr_surf_brute",

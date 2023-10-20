@@ -85,20 +85,20 @@
       "constraints":{
          "required":true,
          "enum":[
-		 "industrielle",
-		 "commerciale",
-		 "tertiaire",
-		 "artisanale",
-		 "touristique",
-		 "portuaire",
-		 "aéroportuaire, aéronautique",
-		 "entrepôts, logistique",
-		 "logistique agricole",
-		 "mixte, sans dominante",
-		 "inconnu",
-		 "autre",
-		 "sans objet"
-                ]
+            "industrielle",
+            "commerciale",
+            "tertiaire",
+            "artisanale",
+            "touristique",
+            "portuaire",
+            "aéroportuaire, aéronautique",
+            "entrepôts, logistique",
+            "logistique agricole",
+            "mixte, sans dominante",
+            "inconnu",
+            "autre",
+            "sans objet"
+         ]
 	     }	
 				   
      },
@@ -184,14 +184,14 @@
       "constraints":{
          "required":false,
          "enum":[
-		 "international",
-		 "national",
-		 "régional",
-		 "local",
-		 "inconnu",
-		 "autre",
-		 "sans objet"
-                ]
+            "international",
+            "national",
+            "régional",
+            "local",
+            "inconnu",
+            "autre",
+            "sans objet"
+         ]
 		 }		
      }
    ],
