@@ -11,6 +11,6 @@ Elle intègre les parcelles cadastrales bâties ou non, aménagées ou non, dest
 - les établissements isolés (ou mono-fonctionnels) présentant les mêmes caractéristiques mais avec un seul établissement significatif en effectif et/ou surface à l’échelle du territoire ;
 - des réserves foncières correspondant aux projets de zones d'activité économique ou à leurs extensions futures, inscrites dans un zonage d'urbanisme à vocation économique.
 
-
+Le stie économique est constitué de [terrains économiques](https://github.com/cnigfr/schema-sites-economiques/blob/main/schema/terrain-eco/README.md).
 
 
