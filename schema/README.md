@@ -1,4 +1,4 @@
-# Datapackage du standard Site Economique
+# Schéma du standard Site Economique
 
 **l'implémentation technique** du modèle conceptuel de données (MCD) est décrite ici suivant le standard **Tableschema** et le format **json**, elle référencée sur [schema.data.gouv.fr](https://schema.data.gouv.fr/schemas.html?q=&label=CNIG).
 
