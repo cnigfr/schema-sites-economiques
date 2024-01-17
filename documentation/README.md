@@ -11,6 +11,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [COPIL n°01 du 16 mars 2023](https://github.com/cnigfr/zones-activites-economiques/files/11259486/230316.COPIL.PNFE.n.01.pdf)
 - [COPIL n°02 du 24 mai 2023](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/230524_CR%20COPIL%20PNFE%20%232.pdf)
 - [COPIL n°03 du 20 juillet 2023](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/230720_CR%20COPIL%20PNFE%20%233.pdf)
+- [COPIL n°05 du 15 novembre 2023](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/231122_CR%20COPIL%20PNFE%20%235_231115.pdf)
 
 ## Guides méthodologiques pour la réalisation des inventaires de ZAE dans le cadre de la loi Climat et résilience
 
