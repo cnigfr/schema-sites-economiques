@@ -8,5 +8,6 @@ En outre _(et merci à [@Doctor-Who](https://github.com/Doctor-Who)_ pour ces re
 
 - Chaque répertoire contient une requête SQL de création des différentes classes d'objets au format PostGreSQL/PostGIS. Elles définissent le type exact de chaque champ, si les valeurs _NULL_ sont autorisées ou non ainsi que les commentaires associés.
 
-- Le GeoPackage `sites_economiques.gpkg` contient les 4 couches du standard. Spécificités : terrain-eco est proposé uniquement en polygone car le format ne gère pas plusieurs géométries contrairement à PostGIS.
-MAJ du 19/01/2024 : le GeoPackage contient à présent des formulaires de saisie (liste déroulante, case à cocher, calendrier, etc.). Ils ont été testés avec QGIS LTR 3.28.
+- Le GeoPackage `sites_economiques.gpkg` contient les 4 couches du standard pour **QGIS** (testé avec QGIS LTR 3.28).
+  - Spécificités : terrain-eco est proposé uniquement en polygone simple car le format ne gère pas plusieurs géométries contrairement à PostGIS.
+  - MAJ du 19/01/2024 : le GeoPackage contient à présent des formulaires de saisie (liste déroulante, case à cocher, calendrier, etc.).
