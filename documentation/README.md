@@ -75,6 +75,11 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 - [Notice méthodologique de l'inventaire des ZAE du Grand Amiénois](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/230413_Notice_methodologique_inventaire_des_ZAE_du_Grand_Amienois.pdf)
 
+### Bordeaux Métropole
+
+- [L'observatoire des ZAE de Bordeaux Métropole par l'A'Urba _(sur Expertises Territoires)_](https://www.expertises-territoires.fr/jcms/89391303_DBFileDocument/fr/l-atlas-l-observatoire-des-zones-d-activites-economiques-de-bordeaux-metropole-par-l-a-urba)
+
+
 ### GéoCompiègne
 - [Prescriptions spécifiques locales pour le suivi et la gestion de l'activité économique](https://github.com/sigagglocompiegne/acti_eco). Il s'agit d'une  extension avec remaniement léger et réversible du [modèle régional ex-picardie 2015](https://www.geo2france.fr/portail/sites/default/files/import_destination/fichier/from_tc/geopicardie/documents/modele_groupe_activite_economique_version2_2015.pdf)
 - [Modèle de données](https://github.com/sigagglocompiegne/acti_eco/blob/master/bdd/doc_admin_bd_amt_fon_eco.md)
