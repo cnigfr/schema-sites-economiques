@@ -27,7 +27,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 ### Agence économique régionale Bourgogne-Franche-Comté
 
 - [Carte des Sites et Zones d'activités économiques](https://cartes.ternum-bfc.fr/?config=apps/agence-regionale-du-numerique-et-de-l-intelligence-artificielle-arnia/economie.xml)
-- [GT ZAE BFC](https://ideo.ternum-bfc.fr/groupes-projets/groupe-zones-dactivites-economiques)
+- [GT ZAE BFC](https://ideo.ternum-bfc.fr/groupes-projets/2-zones-dactivites-economiques)
 - [Guide méthodologique sites économiques](https://ideo.ternum-bfc.fr/groupes-projets/groupe-zones-dactivites-economiques)
 - [Webinaire du 20 septembre 2022 : Concrétiser une observation des ZAE conforme à la loi C&R](https://ideo.ternum-bfc.fr/sites/default/files/2022-09/20220920_Webinaire%20GT%20ZAE%20Concr%C3%A9tiser%20une%20observation%20des%20ZAE%20art%20220%20loi%20climat.pdf)
 - [Guide méthodologique pour la réalisation des inventaires de ZAE dans le cadre de la loi Climat et résilience](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/README.md#guides-m%C3%A9thodologiques-pour-la-r%C3%A9alisation-des-inventaires-de-zae-dans-le-cadre-de-la-loi-climat-et-r%C3%A9silience)
