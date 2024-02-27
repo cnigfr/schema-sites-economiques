@@ -96,6 +96,10 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 - *< à venir ...>*
 
+## Fiches Expertises Territoires
+
+- Elles sont [accessibles ici](https://github.com/cnigfr/schema-sites-economiques/tree/main/documentation/fichiers/Fiches%20Expertises%20Territoires).
+
 ## Fiches ZAN et ZAE de la Région Pays-de-la-Loire
 
 [Elements de contexte ZAN](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/zan_elements_contexte.pdf) - [Densification et optimisation des zones d'activité](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/fiche_densification_optimisation_zones_activites_0.pdf) -  [Mixité d'usages](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/fiche_mixite_dusages_0.pdf) - [Mutualisation des services et des espaces](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/fiche_mutualisation_des_services_et_des_espaces.pdf) - [Réversibiité immobilière](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/fiche_reversibilite_immobiliere_et_fonciere_0.pdf)
