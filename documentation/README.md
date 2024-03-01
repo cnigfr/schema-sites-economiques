@@ -1,6 +1,6 @@
 # Documentation
 
-Ce répertoire contient la documentation relative au standard CNIG ZAE
+Ce répertoire contient la documentation relative au standard CNIG Sites Economiques
 
 ## Aspects réglementaires
 
@@ -108,4 +108,5 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 
 ## Données
 
+- [Base de données des Sites Economiques Potentiels élaborée par le Cerema pour le compte du Minitère de l'écologie](https://www.expertises-territoires.fr/jcms/90133937_MicroBlogging/fr/le-microblogging-de-frederic-lasseron)
 - [Fichiers fonciers DGFIP retraités par le Cerema](https://datafoncier.cerema.fr/ressources/fichiers-fonciers)
