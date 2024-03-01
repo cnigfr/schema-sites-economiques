@@ -12,7 +12,7 @@ Ce répertoire contient la documentation relative au standard CNIG ZAE
 - [COPIL n°02 du 24 mai 2023](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/230524_CR%20COPIL%20PNFE%20%232.pdf)
 - [COPIL n°03 du 20 juillet 2023](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/230720_CR%20COPIL%20PNFE%20%233.pdf)
 - [COPIL n°05 du 15 novembre 2023](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/231122_CR%20COPIL%20PNFE%20%235_231115.pdf)
-- [COPIL n°06 du 18 janvier 2024](https://github.com/cnigfr/schema-sites-economiques/documentation/fichiers/240118_FranceFoncier+_Compte-renduCOPIL #6VF.pdf)
+- [COPIL n°06 du 18 janvier 2024](https://github.com/cnigfr/schema-sites-economiques/documentation/fichiers/240118_FranceFoncier+_Compte-renduCOPIL_6VF.pdf)
 
 ## Guides méthodologiques pour la réalisation des inventaires de ZAE dans le cadre de la loi Climat et résilience
 
