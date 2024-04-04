@@ -1,0 +1,42 @@
+name: Vérification du respect des spécifications
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    - name: Cache pip
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          ${{ runner.os }}-
+    - name: Installation des dépendances
+      run: pip install -r requirements.txt
+    - name: Vérification du schéma etablissement et des fichiers d'exemples associés
+      run: |
+        frictionless validate --type schema schema/etablissement/schema.json
+        frictionless validate --schema schema/etablissement/schema.json schema/etablissement/exemple-valide.csv
+    - name: Vérification du schéma pole-eco et des fichiers d'exemples associés
+      run: |
+        frictionless validate --type schema schema/pole-eco/schema.json
+        frictionless validate --schema schema/pole-eco/schema.json schema/pole-eco/exemple-valide.csv
+    - name: Vérification du schéma site-eco et des fichiers d'exemples associés
+      run: |
+        frictionless validate --type schema schema/site-eco/schema.json
+        frictionless validate --schema schema/site-eco/schema.json schema/site-eco/exemple-valide.csv
+    - name: Vérification du schéma terrain-eco et des fichiers d'exemples associés
+      run: |
+        frictionless validate --type schema schema/terrain-eco/schema.json
+        frictionless validate --schema schema/terrain-eco/schema.json schema/terrain-eco/exemple-valide.csv
+    - name: Vérification du datapackage
+      run: |
+        frictionless validate datapackage.json
