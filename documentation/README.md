@@ -93,9 +93,9 @@ Ce répertoire contient la documentation relative au standard CNIG Sites Economi
 - [Exemple de fiche d'inventaire](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/230524_RA_exemple_inventaire_za.jpeg)
 
 
-### Urbansimul - Module activités économiques
+### UrbanSIMUL - Module activités économiques
 
-- *< à venir ...>*
+- [Le recensement des ZAE avec UrbanSIMUL](https://www.cerema.fr/fr/actualites/recensement-zones-activites-economique-enjeu-leur)
 
 ## Fiches Expertises Territoires
 
