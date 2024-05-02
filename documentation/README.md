@@ -105,8 +105,14 @@ Ce répertoire contient la documentation relative au standard CNIG Sites Economi
 
 [Elements de contexte ZAN](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/zan_elements_contexte.pdf) - [Densification et optimisation des zones d'activité](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/fiche_densification_optimisation_zones_activites_0.pdf) -  [Mixité d'usages](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/fiche_mixite_dusages_0.pdf) - [Mutualisation des services et des espaces](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/fiche_mutualisation_des_services_et_des_espaces.pdf) - [Réversibiité immobilière](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/ZAN_ZAE/fiche_reversibilite_immobiliere_et_fonciere_0.pdf)
 
-
 ## Données
 
 - [Base de données des Sites Economiques Potentiels élaborée par le Cerema pour le compte du Minitère de l'écologie](https://www.expertises-territoires.fr/jcms/90133937_MicroBlogging/fr/le-microblogging-de-frederic-lasseron)
 - [Fichiers fonciers DGFIP retraités par le Cerema](https://datafoncier.cerema.fr/ressources/fichiers-fonciers)
+
+## France Foncier+
+
+- [France Foncier+](https://www.banquedesterritoires.fr/produits-services/services-digitaux/france-foncier#/fo4-bdt-wc-foncier/rechercher)
+  - [Communiqué de presse](https://www.expertises-territoires.fr/jcms/91669759_MicroBlogging/fr/le-microblogging-de-lea-apruzzese)
+  - [Vidéo de présentation](https://www.expertises-territoires.fr/jcms/91669706_Media/fr/video-demo-france-foncier)
+
