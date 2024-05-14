@@ -36,6 +36,10 @@
          "path":"https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000043957249"
       },
       {
+         "title":"Article L318-8-2 du Code de l'urbanisme",
+         "path":"https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043968275"
+      },
+      {
          "title":"Standard Sites Economiques",
          "path":"https://github.com/cnigfr/schema-sites-economiques/blob/main/standard"
       }
