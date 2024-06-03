@@ -96,6 +96,7 @@ Ce répertoire contient la documentation relative au standard CNIG Sites Economi
 ### UrbanSIMUL - Module activités économiques
 
 - [Le recensement des ZAE avec UrbanSIMUL](https://www.cerema.fr/fr/actualites/recensement-zones-activites-economique-enjeu-leur)
+- [Replay "Inventaire de ZAE avec UrbanSIMUL" - 21 mai 2024](https://www.expertises-territoires.fr/jcms/92763675_Media/fr/replay-hotline-us-you-21-mai-2024-inventaire-de-zae)
 
 ## Fiches Expertises Territoires
 
