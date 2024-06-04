@@ -116,4 +116,5 @@ Ce répertoire contient la documentation relative au standard CNIG Sites Economi
 - [France Foncier+](https://www.banquedesterritoires.fr/produits-services/services-digitaux/france-foncier#/fo4-bdt-wc-foncier/rechercher)
   - [Communiqué de presse](https://www.expertises-territoires.fr/jcms/91669759_MicroBlogging/fr/le-microblogging-de-lea-apruzzese)
   - [Vidéo de présentation](https://www.expertises-territoires.fr/jcms/91669706_Media/fr/video-demo-france-foncier)
+  - [Réindustrialisation, préservation du foncier : comment mieux s’accorder entre entreprises et collectivités ?](https://theconversation.com/reindustrialisation-preservation-du-foncier-comment-mieux-saccorder-entre-entreprises-et-collectivites-229040)
 
