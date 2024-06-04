@@ -13,6 +13,7 @@ Ce répertoire contient la documentation relative au standard CNIG Sites Economi
 - [COPIL n°03 du 20 juillet 2023](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/230720_CR%20COPIL%20PNFE%20%233.pdf)
 - [COPIL n°05 du 15 novembre 2023](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/231122_CR%20COPIL%20PNFE%20%235_231115.pdf)
 - [COPIL n°06 du 18 janvier 2024](https://github.com/cnigfr/schema-sites-economiques/documentation/fichiers/240118_FranceFoncier+_Compte-renduCOPIL_6VF.pdf)
+- [COPIL n°07 du 6 mai 2024](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240506_FranceFoncier%2BCompte-renduCOPIL%237_.pdf)
 
 ## Guides méthodologiques pour la réalisation des inventaires de ZAE dans le cadre de la loi Climat et résilience
 
