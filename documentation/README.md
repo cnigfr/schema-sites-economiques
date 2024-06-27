@@ -6,7 +6,7 @@ Ce répertoire contient la documentation relative au standard CNIG Sites Economi
 
 - [Enjeux de l’inventaire du foncier dans les ZAE, rendu obligatoire par la Loi Climat & Résilience](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/221214_enjeux_de_l%E2%80%99inventaire_du_foncier_dans_les_ZAE_MTE_DGALN.pdf)
 
-## Portail national du foncier économique (PNFE)
+## France foncier+ (portail national du foncier économique)
 
 - [COPIL n°01 du 16 mars 2023](https://github.com/cnigfr/zones-activites-economiques/files/11259486/230316.COPIL.PNFE.n.01.pdf)
 - [COPIL n°02 du 24 mai 2023](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/230524_CR%20COPIL%20PNFE%20%232.pdf)
@@ -33,6 +33,7 @@ Ce répertoire contient la documentation relative au standard CNIG Sites Economi
 - [Guide méthodologique sites économiques](https://ideo.ternum-bfc.fr/groupes-projets/groupe-zones-dactivites-economiques)
 - [Webinaire du 20 septembre 2022 : Concrétiser une observation des ZAE conforme à la loi C&R](https://ideo.ternum-bfc.fr/sites/default/files/2022-09/20220920_Webinaire%20GT%20ZAE%20Concr%C3%A9tiser%20une%20observation%20des%20ZAE%20art%20220%20loi%20climat.pdf)
 - [Guide méthodologique pour la réalisation des inventaires de ZAE dans le cadre de la loi Climat et résilience](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/README.md#guides-m%C3%A9thodologiques-pour-la-r%C3%A9alisation-des-inventaires-de-zae-dans-le-cadre-de-la-loi-climat-et-r%C3%A9silience)
+- [Guide méthodologique Standard régional Sites économiques Bourgogne-Franche-Comté - version 3.6](cnigfr/schema-sites-economiques/documentation/fichiers/240627_Standard_Sites_Economique_BFC_v.3.6_juin_2024.pdf)
 
 
 ### Région PACA - SUD foncier éco
