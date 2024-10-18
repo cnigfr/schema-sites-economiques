@@ -28,7 +28,7 @@
       {
          "title":"Exemple valide",
          "name":"exemple-valide-csv",
-         "path":"https://github.com/cnigfr/schema-sites-economiques/schema/pole-eco/raw/v1.0.0/exemple-valide.csv"
+         "path":"https://github.com/cnigfr/schema-sites-economiques/schema/pole-eco/raw/v1.0.1/exemple-valide.csv"
       }
    ],
    "sources":[
