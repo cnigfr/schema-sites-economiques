@@ -27,7 +27,7 @@
       {
          "title":"Exemple valide",
          "name":"exemple-valide-csv",
-         "path":"https://github.com/cnigfr/schema-sites-economiques/schema/terrain-eco/raw/v1.0.0/exemple-valide.csv"
+         "path":"https://github.com/cnigfr/schema-sites-economiques/schema/terrain-eco/raw/v1.0.1/exemple-valide.csv"
       }
    ],
    "sources":[
@@ -246,7 +246,7 @@
       "example": "https://cartofriches.cerema.fr/cartofriches/_w_315f3ab4/_w_a4f97a41/?site=48095_11974",
       "type": "string",
       "constraints": {
-	 "required": false},
+	 "required": false,
          "pattern": "^(https?)://[^\\s/$.?#].[^\\s]*$"
          }    
      },
