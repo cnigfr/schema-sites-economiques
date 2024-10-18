@@ -240,6 +240,17 @@
 	  ]
      },
      {
+      "name": "terr_url_cartofriches",
+      "title": "URL de la friche dans cartofriches",
+      "description": "URL de la friche dans cartofriches (lorsque terr_etat_occup = friche)",
+      "example": "https://cartofriches.cerema.fr/cartofriches/_w_315f3ab4/_w_a4f97a41/?site=48095_11974",
+      "type": "string",
+      "constraints": {
+	 "required": false},
+         "pattern": "^(https?)://[^\\s/$.?#].[^\\s]*$"
+         }    
+     },
+     {
       "name": "terr_geomsurf",
       "title": "géométrie",
       "description": "géométrie surfacique du terrain économique au format geojson (https://specs.frictionlessdata.io//table-schema/#geojson)",
