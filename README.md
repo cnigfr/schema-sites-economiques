@@ -5,7 +5,7 @@ Dépot des documents et travaux du **[sous-groupe de travail ZAE](http://cnig.go
 
 ## Géostandard CNIG Sites Economiques
 
-Le géostandard CNIG Sites Economiques est en cours d'élaboration. Il sera publié sur la page web des ressources du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**.
+Le géostandard CNIG Sites Economiques est publié sur la page web des ressources du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**.
 
 ## Contexte
 
@@ -49,13 +49,11 @@ L’objectif est d'aboutir à terme à un consensus qui se traduise en un standa
 
 Le standard CNIG Sites Economiques fournit une description littérale des champs, non exlusivement technique.
 
-Le fichier schema.json <contient / contiendra> **l'implémentation technique** du modèle conceptuel de données (MCD), au format json.
+Le fichier schema.json contient **l'implémentation technique** du modèle conceptuel de données (MCD), au format json.
 
 Ce schéma (ou Modèle Conceptuel de Donées - MCD) modélise les informations relatives aux sites économiques.
 
-Adopter et respecter ce schéma est une garantie, non seulement d’efficacité et de pertinence des informations collectées, mais aussi d’interopérabilité et de facilité du partage des données.
-
-Ce schéma respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-schema/) et <est / sera> référencé sur [schema.data.gouv.fr](https://schema.data.gouv.fr). 
+Ce schéma respecte le standard [Table Schema](https://specs.frictionlessdata.io/table-schema/) et est référencé sur [schema.data.gouv.fr](https://schema.data.gouv.fr). 
 
 ## Organisation du dépot
 
