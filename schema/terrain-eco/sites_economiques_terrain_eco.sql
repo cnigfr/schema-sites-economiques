@@ -13,6 +13,7 @@ CREATE TABLE sites_economiques.terrain_eco (
     terr_stade_comm varchar NOT NULL,
     terr_etat_occup varchar NOT NULL,
     terr_usage varchar NOT NULL,
+    terr_url_cartofriches text, -- Utilisation du type text pour les URL
     terr_geomsurf geometry(Polygon, 2154) NOT NULL,
     terr_cle_en_main char(3),
     terr_acquereur varchar,
