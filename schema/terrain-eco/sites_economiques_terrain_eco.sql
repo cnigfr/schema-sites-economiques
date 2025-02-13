@@ -13,6 +13,7 @@ CREATE TABLE sites_economiques.terrain_eco (
     terr_stade_comm varchar NOT NULL,
     terr_etat_occup varchar NOT NULL,
     terr_usage varchar NOT NULL,
+    terr_url_cartofriches text, -- Utilisation du type text pour les URL
     terr_geomsurf geometry(Polygon, 2154) NOT NULL,
     terr_cle_en_main char(3),
     terr_acquereur varchar,
@@ -38,6 +39,7 @@ COMMENT ON COLUMN sites_economiques.terrain_eco.terr_stade_amngt IS 'Stade d''am
 COMMENT ON COLUMN sites_economiques.terrain_eco.terr_stade_comm IS 'Stade de commercialisation du terrain économique';
 COMMENT ON COLUMN sites_economiques.terrain_eco.terr_etat_occup IS 'État d''occupation du terrain économique';
 COMMENT ON COLUMN sites_economiques.terrain_eco.terr_usage IS 'Usage du terrain économique';
+COMMENT ON COLUMN sites_economiques.terrain_eco.terr_url_cartofriches IS 'URL de la friche dans cartofriches (lorsque terr_etat_occup = friche)';
 COMMENT ON COLUMN sites_economiques.terrain_eco.terr_geomsurf IS 'Géométrie surfacique du terrain économique';
 COMMENT ON COLUMN sites_economiques.terrain_eco.terr_cle_en_main IS 'Terrain purgé de tout recours et directement prêt à l''implantation d''activité';
 COMMENT ON COLUMN sites_economiques.terrain_eco.terr_acquereur IS 'Nom de l''acquéreur du terrain à vocation économique';
