@@ -6,6 +6,11 @@ Ce répertoire contient la documentation relative au standard CNIG Sites Economi
 
 - [Enjeux de l’inventaire du foncier dans les ZAE, rendu obligatoire par la Loi Climat & Résilience](https://github.com/cnigfr/zones-activites-economiques/blob/main/documentation/fichiers/221214_enjeux_de_l%E2%80%99inventaire_du_foncier_dans_les_ZAE_MTE_DGALN.pdf)
 
+## Géostandard CNIG Sites économiques
+
+- [Standard CNIG Sites économiques](https://cnig.gouv.fr/ressources-am%C3%A9nagement-a26047.html#H_ZAE-Sites-economiques)
+- Présentation du [standard](https://cnig.gouv.fr/ressources-am%C3%A9nagement-a26047.html#H_ZAE-Sites-economiques) _(au pôle métier de l'inter-région Bretagne & Pays de la Loire, le 19 janvier 2024)_ - version [pdf](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.pdf) - [ppt](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.odp)
+
 ## France foncier+ (portail national du foncier économique)
 
 - [COPIL n°01 du 16 mars 2023](https://github.com/cnigfr/zones-activites-economiques/files/11259486/230316.COPIL.PNFE.n.01.pdf)
