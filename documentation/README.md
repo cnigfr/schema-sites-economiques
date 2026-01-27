@@ -9,7 +9,7 @@ Ce répertoire contient la documentation relative au standard CNIG Sites Economi
 ## Géostandard CNIG Sites économiques
 
 - [Standard CNIG Sites économiques](https://cnig.gouv.fr/ressources-am%C3%A9nagement-a26047.html#H_ZAE-Sites-economiques)
-- Présentation du [standard](https://cnig.gouv.fr/ressources-am%C3%A9nagement-a26047.html#H_ZAE-Sites-economiques) _(au pôle métier de l'inter-région Bretagne & Pays de la Loire, le 19 janvier 2024)_ - version [pdf](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.pdf) - [ppt](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.odp)
+- Présentation du [standard](https://cnig.gouv.fr/ressources-am%C3%A9nagement-a26047.html#H_ZAE-Sites-economiques) _(au pôle métier de l'inter-région Bretagne & Pays de la Loire, le 19 janvier 2024)_ - versions [pdf](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.pdf) - [ppt](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.odp)
 
 ## France foncier+ (portail national du foncier économique)
 
