@@ -7,8 +7,8 @@ Dépot des documents et travaux du **[sous-groupe de travail ZAE](http://cnig.go
 
 Le géostandard CNIG Sites Economiques est publié sur la page web des ressources du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**.
 
-Présentation du standard (Pôle métier de l'inter-région Bretagne & Pays de la Loire, le 19 janvier 2024) - version [pdf](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.pdf) - [ppt](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.odp)
-
+- Présentation du [standard CNIG Sites économiques](https://cnig.gouv.fr/ressources-am%C3%A9nagement-a26047.html#H_ZAE-Sites-economiques) _(au pôle métier de l'inter-région Bretagne & Pays de la Loire, le 19 janvier 2024)_ - versions [pdf](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.pdf) - [ppt](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.odp)
+- 
 ## Contexte
 
 - Une ZAE est réservée à l’implantation d’entreprises. Elle réunit les pouvoirs publics, les collectivités et les entreprises dans une logique partenariale autour d’objectifs de croissance. Elle est en général placée sous le régime juridique du permis d'aménager ou d'une zone d'aménagement concerté (ZAC).
