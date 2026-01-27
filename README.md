@@ -6,6 +6,7 @@ Dépot des documents et travaux du **[sous-groupe de travail ZAE](http://cnig.go
 ## Géostandard CNIG Sites Economiques
 
 Le géostandard CNIG Sites Economiques est publié sur la page web des ressources du **[GT CNIG Aménagement](http://cnig.gouv.fr/gt-friches-a25940.html)**.
+Présentation du standard (au pôle métier de l'inter-région Bretagne & Pays de la Loire, le 19 janvier 2024) - version [pdf](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.pdf) - [ppt](https://github.com/cnigfr/schema-sites-economiques/blob/main/documentation/fichiers/240119_Presentation_standard_Sites_Economiques_P%C3%B4le%20m%C3%A9tier_ZAE_BZH%2BPdL.odp)
 
 ## Contexte
 
